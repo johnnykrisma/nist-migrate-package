@@ -1,0 +1,4340 @@
+{
+  "47": {
+    "currentId": "47",
+    "currentTerm": "Bioscience & Health",
+    "newMapping": "Bioscience",
+    "otherNewMapping": "Health"
+  },
+  "821": {
+    "currentId": "821",
+    "currentTerm": "Bioenergy",
+    "newMapping": "Alternative energy",
+    "otherNewMapping": ""
+  },
+  "822": {
+    "currentId": "822",
+    "currentTerm": "Biomanufacturing",
+    "newMapping": "Biomanufacturing",
+    "otherNewMapping": ""
+  },
+  "823": {
+    "currentId": "823",
+    "currentTerm": "Biological Product Characterization",
+    "newMapping": "Biomanufacturing",
+    "otherNewMapping": ""
+  },
+  "824": {
+    "currentId": "824",
+    "currentTerm": "Industrial Biochemical Manufacturing",
+    "newMapping": "Biomanufacturing",
+    "otherNewMapping": ""
+  },
+  "825": {
+    "currentId": "825",
+    "currentTerm": "Worker Safety Monitoring",
+    "newMapping": "Biomanufacturing",
+    "otherNewMapping": ""
+  },
+  "826": {
+    "currentId": "826",
+    "currentTerm": "Diagnostics",
+    "newMapping": "Health",
+    "otherNewMapping": ""
+  },
+  "836": {
+    "currentId": "836",
+    "currentTerm": "Cell-Based",
+    "newMapping": "Health",
+    "otherNewMapping": ""
+  },
+  "827": {
+    "currentId": "827",
+    "currentTerm": "Clinical Diagnostics",
+    "newMapping": "Clinical diagnostics",
+    "otherNewMapping": ""
+  },
+  "835": {
+    "currentId": "835",
+    "currentTerm": "Dental",
+    "newMapping": "Dentistry",
+    "otherNewMapping": ""
+  },
+  "837": {
+    "currentId": "837",
+    "currentTerm": "Gene Therapy",
+    "newMapping": "Health",
+    "otherNewMapping": ""
+  },
+  "839": {
+    "currentId": "839",
+    "currentTerm": "Hypothermia",
+    "newMapping": "Health",
+    "otherNewMapping": ""
+  },
+  "828": {
+    "currentId": "828",
+    "currentTerm": "Imaging",
+    "newMapping": "Medical imaging",
+    "otherNewMapping": ""
+  },
+  "829": {
+    "currentId": "829",
+    "currentTerm": "Molecular Pathology",
+    "newMapping": "Health",
+    "otherNewMapping": "Genomic measurements"
+  },
+  "830": {
+    "currentId": "830",
+    "currentTerm": "Physical Measurements",
+    "newMapping": "Bioscience",
+    "otherNewMapping": ""
+  },
+  "838": {
+    "currentId": "838",
+    "currentTerm": "Radiation",
+    "newMapping": "Clinical diagnostics",
+    "otherNewMapping": "Radiation therapies"
+  },
+  "834": {
+    "currentId": "834",
+    "currentTerm": "Tissue Engineering",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "832": {
+    "currentId": "832",
+    "currentTerm": "Drugs\/Pharmaceuticals",
+    "newMapping": "Pharmaceuticals",
+    "otherNewMapping": ""
+  },
+  "841": {
+    "currentId": "841",
+    "currentTerm": "Environmental",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "843": {
+    "currentId": "843",
+    "currentTerm": "Ecosystem Health\/Safety",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "842": {
+    "currentId": "842",
+    "currentTerm": "Event Monitoring\/Bioremediation (Hazardous Waste Reduction)",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "844": {
+    "currentId": "844",
+    "currentTerm": "Toxicology",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "845": {
+    "currentId": "845",
+    "currentTerm": "Food Safety\/Nutrition\/Cosmetics",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "852": {
+    "currentId": "852",
+    "currentTerm": "Agriculture",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "854": {
+    "currentId": "854",
+    "currentTerm": "Animal\/Crop Improvement",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "853": {
+    "currentId": "853",
+    "currentTerm": "Aquaculture",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": "Marine science"
+  },
+  "855": {
+    "currentId": "855",
+    "currentTerm": "Cosmetics",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "850": {
+    "currentId": "850",
+    "currentTerm": "Dietary Supplements",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "849": {
+    "currentId": "849",
+    "currentTerm": "Food Safety\/Quality",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "851": {
+    "currentId": "851",
+    "currentTerm": "Genetic Surveillance",
+    "newMapping": "Food & nutrition",
+    "otherNewMapping": ""
+  },
+  "856": {
+    "currentId": "856",
+    "currentTerm": "Homeland Security\/Forensics\/Human Identity",
+    "newMapping": "Forensics",
+    "otherNewMapping": ""
+  },
+  "859": {
+    "currentId": "859",
+    "currentTerm": "Biothreat Agent Remediation",
+    "newMapping": "DNA & biological evidence",
+    "otherNewMapping": ""
+  },
+  "858": {
+    "currentId": "858",
+    "currentTerm": "Chemical\/Biological\/Radiological\/Nuclear\/Explosives (CBRNE)",
+    "newMapping": "Drugs & toxicology",
+    "otherNewMapping": ""
+  },
+  "857": {
+    "currentId": "857",
+    "currentTerm": "Human Identification\/Molecular Biometrics",
+    "newMapping": "DNA & biological evidence",
+    "otherNewMapping": ""
+  },
+  "860": {
+    "currentId": "860",
+    "currentTerm": "Life Sciences Research",
+    "newMapping": "Bioscience",
+    "otherNewMapping": ""
+  },
+  "833": {
+    "currentId": "833",
+    "currentTerm": "Medical Devices",
+    "newMapping": "Health",
+    "otherNewMapping": ""
+  },
+  "840": {
+    "currentId": "840",
+    "currentTerm": "Nanotech\/Environment, Health & Safety",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "862": {
+    "currentId": "862",
+    "currentTerm": "Standard Reference Data",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "861": {
+    "currentId": "861",
+    "currentTerm": "Standard Reference Materials",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "863": {
+    "currentId": "863",
+    "currentTerm": "U.S. Measurement System",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "48": {
+    "currentId": "48",
+    "currentTerm": "Building and Fire Research",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": "Fire"
+  },
+  "155": {
+    "currentId": "155",
+    "currentTerm": "Building Economics",
+    "newMapping": "Building economics",
+    "otherNewMapping": ""
+  },
+  "158": {
+    "currentId": "158",
+    "currentTerm": "Economic Impact Analysis",
+    "newMapping": "Building economics",
+    "otherNewMapping": ""
+  },
+  "157": {
+    "currentId": "157",
+    "currentTerm": "Life-Cycle Cost Analysis",
+    "newMapping": "Building economics",
+    "otherNewMapping": ""
+  },
+  "156": {
+    "currentId": "156",
+    "currentTerm": "Microeconomic Analysis",
+    "newMapping": "Building economics",
+    "otherNewMapping": ""
+  },
+  "148": {
+    "currentId": "148",
+    "currentTerm": "Building Materials",
+    "newMapping": "Building materials",
+    "otherNewMapping": ""
+  },
+  "151": {
+    "currentId": "151",
+    "currentTerm": "Coatings\/Sealants",
+    "newMapping": "Building materials",
+    "otherNewMapping": "Polymers"
+  },
+  "149": {
+    "currentId": "149",
+    "currentTerm": "Concrete\/Cement",
+    "newMapping": "Building materials",
+    "otherNewMapping": "Concrete \/ cement"
+  },
+  "153": {
+    "currentId": "153",
+    "currentTerm": "Laboratory Inspection Program",
+    "newMapping": "Building materials",
+    "otherNewMapping": ""
+  },
+  "154": {
+    "currentId": "154",
+    "currentTerm": "Nanocomposite Materials",
+    "newMapping": "Building materials",
+    "otherNewMapping": "Materials"
+  },
+  "150": {
+    "currentId": "150",
+    "currentTerm": "Polymers\/Polymeric Composites",
+    "newMapping": "Building materials",
+    "otherNewMapping": "Materials"
+  },
+  "152": {
+    "currentId": "152",
+    "currentTerm": "Service Life Prediction",
+    "newMapping": "Building materials",
+    "otherNewMapping": "Materials"
+  },
+  "180": {
+    "currentId": "180",
+    "currentTerm": "Building and Fire Codes and Standards",
+    "newMapping": "Building codes & standards",
+    "otherNewMapping": ""
+  },
+  "175": {
+    "currentId": "175",
+    "currentTerm": "Building and Fire Safety Investigations",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": ""
+  },
+  "176": {
+    "currentId": "176",
+    "currentTerm": "National Construction Safety Team Investigations",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": "Disaster preparation \/ response \/ recovery"
+  },
+  "178": {
+    "currentId": "178",
+    "currentTerm": "Other Disaster and Failure Investigations",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": "Disaster preparation \/ response \/ recovery"
+  },
+  "177": {
+    "currentId": "177",
+    "currentTerm": "World Trade Center Investigation",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": "Disaster preparation \/ response \/ recovery"
+  },
+  "143": {
+    "currentId": "143",
+    "currentTerm": "Construction Integration and Automation",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "146": {
+    "currentId": "146",
+    "currentTerm": "Building\/Construction Modeling",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "147": {
+    "currentId": "147",
+    "currentTerm": "Construction Productivity Metrics and Tools",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "145": {
+    "currentId": "145",
+    "currentTerm": "Information\/Communication Technologies",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "144": {
+    "currentId": "144",
+    "currentTerm": "Intelligent\/Automated Construction",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "139": {
+    "currentId": "139",
+    "currentTerm": "Cybernetic Building Systems",
+    "newMapping": "Building control systems",
+    "otherNewMapping": "Cyber-physical systems"
+  },
+  "140": {
+    "currentId": "140",
+    "currentTerm": "Building Automation and Control",
+    "newMapping": "Building control systems",
+    "otherNewMapping": ""
+  },
+  "141": {
+    "currentId": "141",
+    "currentTerm": "Fault Detection and Diagnostics",
+    "newMapping": "Building control systems",
+    "otherNewMapping": ""
+  },
+  "142": {
+    "currentId": "142",
+    "currentTerm": "First Responder Communications",
+    "newMapping": "Building control systems",
+    "otherNewMapping": "Public safety communications research"
+  },
+  "159": {
+    "currentId": "159",
+    "currentTerm": "Fire Protection Technologies",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "162": {
+    "currentId": "162",
+    "currentTerm": "Fire Detection",
+    "newMapping": "Fire detection",
+    "otherNewMapping": ""
+  },
+  "163": {
+    "currentId": "163",
+    "currentTerm": "Fire Fighting Technologies",
+    "newMapping": "Fire fighting",
+    "otherNewMapping": ""
+  },
+  "161": {
+    "currentId": "161",
+    "currentTerm": "Fire Materials Research",
+    "newMapping": "Materials flammability",
+    "otherNewMapping": ""
+  },
+  "164": {
+    "currentId": "164",
+    "currentTerm": "Fire Measurements",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "165": {
+    "currentId": "165",
+    "currentTerm": "Fire Modeling",
+    "newMapping": "Fire modeling",
+    "otherNewMapping": ""
+  },
+  "160": {
+    "currentId": "160",
+    "currentTerm": "Fire Spread",
+    "newMapping": "Fire",
+    "otherNewMapping": "Fire risk reduction"
+  },
+  "179": {
+    "currentId": "179",
+    "currentTerm": "Fire Research Grants Program",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "94": {
+    "currentId": "94",
+    "currentTerm": "High Performance Buildings",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "135": {
+    "currentId": "135",
+    "currentTerm": "Alternative\/Renewable Energy",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": "Alternative energy"
+  },
+  "134": {
+    "currentId": "134",
+    "currentTerm": "Building Energy Conservation",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": "Energy efficiency"
+  },
+  "136": {
+    "currentId": "136",
+    "currentTerm": "Building Equipment Efficiency",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": "Building control systems"
+  },
+  "137": {
+    "currentId": "137",
+    "currentTerm": "Indoor Air Quality",
+    "newMapping": "Indoor air quality",
+    "otherNewMapping": ""
+  },
+  "138": {
+    "currentId": "138",
+    "currentTerm": "Sustainability Metrics and Tools",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": ""
+  },
+  "166": {
+    "currentId": "166",
+    "currentTerm": "Homeland Security and Disaster Resilience",
+    "newMapping": "Disaster resilience",
+    "otherNewMapping": "Public safety"
+  },
+  "174": {
+    "currentId": "174",
+    "currentTerm": "Chemical\/Biological\/Radiological (CBR) Protection",
+    "newMapping": "Chemical \/ Biological \/ Radiological \/ Nuclear \/ Explosives (CBRNE)",
+    "otherNewMapping": ""
+  },
+  "171": {
+    "currentId": "171",
+    "currentTerm": "Earthquake Hazards Reduction",
+    "newMapping": "Earthquake risk reduction",
+    "otherNewMapping": ""
+  },
+  "173": {
+    "currentId": "173",
+    "currentTerm": "Emergency Egress and Access",
+    "newMapping": "Human behavior in disaster",
+    "otherNewMapping": ""
+  },
+  "168": {
+    "currentId": "168",
+    "currentTerm": "Fire Resistance of Structures",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "170": {
+    "currentId": "170",
+    "currentTerm": "Multi-Hazard Failure Analysis",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": "Structural engineering"
+  },
+  "167": {
+    "currentId": "167",
+    "currentTerm": "Progressive Structural Collapse",
+    "newMapping": "Structural engineering",
+    "otherNewMapping": ""
+  },
+  "172": {
+    "currentId": "172",
+    "currentTerm": "Wildland-Urban Interface (WUI) Fires",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "169": {
+    "currentId": "169",
+    "currentTerm": "Wind Engineering",
+    "newMapping": "Windstorm risk reduction",
+    "otherNewMapping": ""
+  },
+  "49": {
+    "currentId": "49",
+    "currentTerm": "Chemistry",
+    "newMapping": "Chemistry",
+    "otherNewMapping": ""
+  },
+  "181": {
+    "currentId": "181",
+    "currentTerm": "Chemical Analysis",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "182": {
+    "currentId": "182",
+    "currentTerm": "Composition",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "183": {
+    "currentId": "183",
+    "currentTerm": "Gas Phase Sensing",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "184": {
+    "currentId": "184",
+    "currentTerm": "Homogeneity",
+    "newMapping": "Composition & structure",
+    "otherNewMapping": ""
+  },
+  "185": {
+    "currentId": "185",
+    "currentTerm": "Micro",
+    "newMapping": "Composition & structure",
+    "otherNewMapping": ""
+  },
+  "186": {
+    "currentId": "186",
+    "currentTerm": "Particle",
+    "newMapping": "Composition & structure",
+    "otherNewMapping": ""
+  },
+  "187": {
+    "currentId": "187",
+    "currentTerm": "Properties",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "188": {
+    "currentId": "188",
+    "currentTerm": "Surfaces",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "189": {
+    "currentId": "189",
+    "currentTerm": "Thin-Films",
+    "newMapping": "Composition & structure",
+    "otherNewMapping": ""
+  },
+  "190": {
+    "currentId": "190",
+    "currentTerm": "Trace",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "191": {
+    "currentId": "191",
+    "currentTerm": "Chemical Engineering & Processing",
+    "newMapping": "Chemical engineering & processing",
+    "otherNewMapping": ""
+  },
+  "192": {
+    "currentId": "192",
+    "currentTerm": "Chemical Properties",
+    "newMapping": "Chemical thermodynamics & chemical properties",
+    "otherNewMapping": ""
+  },
+  "193": {
+    "currentId": "193",
+    "currentTerm": "Cryogenics",
+    "newMapping": "Chemical engineering & processing",
+    "otherNewMapping": "Chemical thermodynamics & chemical properties"
+  },
+  "194": {
+    "currentId": "194",
+    "currentTerm": "Flow",
+    "newMapping": "Flow metrology",
+    "otherNewMapping": ""
+  },
+  "195": {
+    "currentId": "195",
+    "currentTerm": "Fluids",
+    "newMapping": "Flow metrology",
+    "otherNewMapping": ""
+  },
+  "196": {
+    "currentId": "196",
+    "currentTerm": "Humidity",
+    "newMapping": "Humidity metrology",
+    "otherNewMapping": ""
+  },
+  "197": {
+    "currentId": "197",
+    "currentTerm": "Kinetics",
+    "newMapping": "Chemical thermodynamics & chemical properties",
+    "otherNewMapping": ""
+  },
+  "198": {
+    "currentId": "198",
+    "currentTerm": "Materials Properties",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": ""
+  },
+  "199": {
+    "currentId": "199",
+    "currentTerm": "Metrology",
+    "newMapping": "Chemical engineering & processing",
+    "otherNewMapping": "Metrology"
+  },
+  "200": {
+    "currentId": "200",
+    "currentTerm": "Molecular Dynamics",
+    "newMapping": "Theoretical chemistry & modeling",
+    "otherNewMapping": ""
+  },
+  "201": {
+    "currentId": "201",
+    "currentTerm": "Physical Properties",
+    "newMapping": "Thermochemical properties",
+    "otherNewMapping": ""
+  },
+  "202": {
+    "currentId": "202",
+    "currentTerm": "Pressure & Vacuum",
+    "newMapping": "Pressure & vacuum metrology",
+    "otherNewMapping": ""
+  },
+  "203": {
+    "currentId": "203",
+    "currentTerm": "Quantum Chemistry",
+    "newMapping": "Theoretical chemistry & modeling",
+    "otherNewMapping": ""
+  },
+  "204": {
+    "currentId": "204",
+    "currentTerm": "Sensors",
+    "newMapping": "Sensors",
+    "otherNewMapping": ""
+  },
+  "205": {
+    "currentId": "205",
+    "currentTerm": "Thermodynamics",
+    "newMapping": "Thermodynamics",
+    "otherNewMapping": ""
+  },
+  "206": {
+    "currentId": "206",
+    "currentTerm": "Thermometry",
+    "newMapping": "Thermometry metrology",
+    "otherNewMapping": ""
+  },
+  "207": {
+    "currentId": "207",
+    "currentTerm": "Thermophysics",
+    "newMapping": "Thermochemical properties",
+    "otherNewMapping": ""
+  },
+  "208": {
+    "currentId": "208",
+    "currentTerm": "Chemicals and Allied Products",
+    "newMapping": "Chemical engineering & processing",
+    "otherNewMapping": ""
+  },
+  "209": {
+    "currentId": "209",
+    "currentTerm": "Classical Analytical",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "210": {
+    "currentId": "210",
+    "currentTerm": "Electroanalytical",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "211": {
+    "currentId": "211",
+    "currentTerm": "Gravimetry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "213": {
+    "currentId": "213",
+    "currentTerm": "Titrimetry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "214": {
+    "currentId": "214",
+    "currentTerm": "Wet Chemistry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "212": {
+    "currentId": "212",
+    "currentTerm": "pH",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "215": {
+    "currentId": "215",
+    "currentTerm": "Climate Science",
+    "newMapping": "Greenhouse gases",
+    "otherNewMapping": "Analytical chemistry"
+  },
+  "216": {
+    "currentId": "216",
+    "currentTerm": "Aerosol\/Particulate Measurements and Standards",
+    "newMapping": "Air \/ water \/ soil quality",
+    "otherNewMapping": ""
+  },
+  "217": {
+    "currentId": "217",
+    "currentTerm": "Greenhouse Gas Absorption Spectra",
+    "newMapping": "Greenhouse gases",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "218": {
+    "currentId": "218",
+    "currentTerm": "Ozone",
+    "newMapping": "Air \/ water \/ soil quality",
+    "otherNewMapping": ""
+  },
+  "219": {
+    "currentId": "219",
+    "currentTerm": "Forensics",
+    "newMapping": "Forensics",
+    "otherNewMapping": ""
+  },
+  "220": {
+    "currentId": "220",
+    "currentTerm": "DNA",
+    "newMapping": "DNA & biological evidence",
+    "otherNewMapping": ""
+  },
+  "221": {
+    "currentId": "221",
+    "currentTerm": "Explosives",
+    "newMapping": "Chemical \/ Biological \/ Radiological \/ Nuclear \/ Explosives (CBRNE)",
+    "otherNewMapping": ""
+  },
+  "222": {
+    "currentId": "222",
+    "currentTerm": "Materials Analysis",
+    "newMapping": "Trace evidence",
+    "otherNewMapping": ""
+  },
+  "223": {
+    "currentId": "223",
+    "currentTerm": "Gas Metrology",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "246": {
+    "currentId": "246",
+    "currentTerm": "Hazardous Waste Reduction",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "224": {
+    "currentId": "224",
+    "currentTerm": "Inorganic Analytical Chemistry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "225": {
+    "currentId": "225",
+    "currentTerm": "Mass Spectrometry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "226": {
+    "currentId": "226",
+    "currentTerm": "Optical",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "227": {
+    "currentId": "227",
+    "currentTerm": "X-Ray",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "228": {
+    "currentId": "228",
+    "currentTerm": "Microfluidics",
+    "newMapping": "Chemical engineering & processing",
+    "otherNewMapping": ""
+  },
+  "229": {
+    "currentId": "229",
+    "currentTerm": "Nuclear Analytical Chemistry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Neutron research"
+  },
+  "230": {
+    "currentId": "230",
+    "currentTerm": "INAA",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Neutron research"
+  },
+  "231": {
+    "currentId": "231",
+    "currentTerm": "NDP",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Neutron research"
+  },
+  "232": {
+    "currentId": "232",
+    "currentTerm": "Neutron Focusing",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Neutron research"
+  },
+  "233": {
+    "currentId": "233",
+    "currentTerm": "PGAA",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Neutron research"
+  },
+  "234": {
+    "currentId": "234",
+    "currentTerm": "RNAA",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Neutron research"
+  },
+  "235": {
+    "currentId": "235",
+    "currentTerm": "Organic Analytical Chemistry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "237": {
+    "currentId": "237",
+    "currentTerm": "Mass Spectrometry",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "236": {
+    "currentId": "236",
+    "currentTerm": "Separation Science",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "238": {
+    "currentId": "238",
+    "currentTerm": "Spectroscopy",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "1017": {
+    "currentId": "1017",
+    "currentTerm": "Continuous Wave Spectroscopy",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "239": {
+    "currentId": "239",
+    "currentTerm": "Electronic",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "240": {
+    "currentId": "240",
+    "currentTerm": "Mass",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": ""
+  },
+  "1019": {
+    "currentId": "1019",
+    "currentTerm": "Molecular Spectroscopy",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "1067": {
+    "currentId": "1067",
+    "currentTerm": "NMR",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "241": {
+    "currentId": "241",
+    "currentTerm": "Near Infra-Red",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "1020": {
+    "currentId": "1020",
+    "currentTerm": "Nonlinear Optical Spectroscopy",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "242": {
+    "currentId": "242",
+    "currentTerm": "Raman",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "243": {
+    "currentId": "243",
+    "currentTerm": "Vibrational",
+    "newMapping": "Analytical chemistry",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "244": {
+    "currentId": "244",
+    "currentTerm": "Standard Reference Data",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "245": {
+    "currentId": "245",
+    "currentTerm": "Standard Reference Materials",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "642": {
+    "currentId": "642",
+    "currentTerm": "Collaborations",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "643": {
+    "currentId": "643",
+    "currentTerm": "Academic",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "646": {
+    "currentId": "646",
+    "currentTerm": "CRADA",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "644": {
+    "currentId": "644",
+    "currentTerm": "Certification",
+    "newMapping": "Certification",
+    "otherNewMapping": ""
+  },
+  "645": {
+    "currentId": "645",
+    "currentTerm": "Consortiums",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "647": {
+    "currentId": "647",
+    "currentTerm": "Facilities\/Instruments",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "648": {
+    "currentId": "648",
+    "currentTerm": "Building and Fire Research",
+    "newMapping": "Buildings and Construction",
+    "otherNewMapping": "Fire"
+  },
+  "649": {
+    "currentId": "649",
+    "currentTerm": "CNST NanoFab",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": ""
+  },
+  "650": {
+    "currentId": "650",
+    "currentTerm": "Environmental",
+    "newMapping": "Environment",
+    "otherNewMapping": ""
+  },
+  "651": {
+    "currentId": "651",
+    "currentTerm": "Manufacturing",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "653": {
+    "currentId": "653",
+    "currentTerm": "NCNR",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "652": {
+    "currentId": "652",
+    "currentTerm": "Nanofabrication",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": ""
+  },
+  "654": {
+    "currentId": "654",
+    "currentTerm": "Neutron Research",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "655": {
+    "currentId": "655",
+    "currentTerm": "Synchrotron",
+    "newMapping": "Optical physics",
+    "otherNewMapping": "Radiation"
+  },
+  "657": {
+    "currentId": "657",
+    "currentTerm": "Grants",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "656": {
+    "currentId": "656",
+    "currentTerm": "Guest Researcher",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "658": {
+    "currentId": "658",
+    "currentTerm": "Industry",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "659": {
+    "currentId": "659",
+    "currentTerm": "Interagency Relationships",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "660": {
+    "currentId": "660",
+    "currentTerm": "International",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "669": {
+    "currentId": "669",
+    "currentTerm": "Canada",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "661": {
+    "currentId": "661",
+    "currentTerm": "China",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "663": {
+    "currentId": "663",
+    "currentTerm": "France",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "664": {
+    "currentId": "664",
+    "currentTerm": "Germany",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "667": {
+    "currentId": "667",
+    "currentTerm": "Great Britain",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "662": {
+    "currentId": "662",
+    "currentTerm": "India",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "670": {
+    "currentId": "670",
+    "currentTerm": "Israel",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "666": {
+    "currentId": "666",
+    "currentTerm": "Korea",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "665": {
+    "currentId": "665",
+    "currentTerm": "Mexico",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "668": {
+    "currentId": "668",
+    "currentTerm": "South America",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "671": {
+    "currentId": "671",
+    "currentTerm": "Licensing\/Patents",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "672": {
+    "currentId": "672",
+    "currentTerm": "Nonprofit",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "673": {
+    "currentId": "673",
+    "currentTerm": "Outreach",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "674": {
+    "currentId": "674",
+    "currentTerm": "Pilots",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "675": {
+    "currentId": "675",
+    "currentTerm": "SBIR",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "677": {
+    "currentId": "677",
+    "currentTerm": "Small Business",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "676": {
+    "currentId": "676",
+    "currentTerm": "Standards Development Organizations (SDO)",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "678": {
+    "currentId": "678",
+    "currentTerm": "State Relations",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "679": {
+    "currentId": "679",
+    "currentTerm": "Alabama",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "680": {
+    "currentId": "680",
+    "currentTerm": "Alaska",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "681": {
+    "currentId": "681",
+    "currentTerm": "Arizona",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "682": {
+    "currentId": "682",
+    "currentTerm": "Arkansas",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "683": {
+    "currentId": "683",
+    "currentTerm": "California",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "684": {
+    "currentId": "684",
+    "currentTerm": "Colorado",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "685": {
+    "currentId": "685",
+    "currentTerm": "Connecticut",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "687": {
+    "currentId": "687",
+    "currentTerm": "DC",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "686": {
+    "currentId": "686",
+    "currentTerm": "Delaware",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "688": {
+    "currentId": "688",
+    "currentTerm": "Florida",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "689": {
+    "currentId": "689",
+    "currentTerm": "Georgia",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "690": {
+    "currentId": "690",
+    "currentTerm": "Hawaii",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "691": {
+    "currentId": "691",
+    "currentTerm": "Idaho",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "692": {
+    "currentId": "692",
+    "currentTerm": "Illinois",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "693": {
+    "currentId": "693",
+    "currentTerm": "Indiana",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "694": {
+    "currentId": "694",
+    "currentTerm": "Iowa",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "695": {
+    "currentId": "695",
+    "currentTerm": "Kansas",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "696": {
+    "currentId": "696",
+    "currentTerm": "Kentucky",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "697": {
+    "currentId": "697",
+    "currentTerm": "Louisiana",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "698": {
+    "currentId": "698",
+    "currentTerm": "Maine",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "699": {
+    "currentId": "699",
+    "currentTerm": "Maryland",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "700": {
+    "currentId": "700",
+    "currentTerm": "Massachusetts",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "701": {
+    "currentId": "701",
+    "currentTerm": "Michigan",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "702": {
+    "currentId": "702",
+    "currentTerm": "Minnesota",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "703": {
+    "currentId": "703",
+    "currentTerm": "Mississippi",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "704": {
+    "currentId": "704",
+    "currentTerm": "Missouri",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "705": {
+    "currentId": "705",
+    "currentTerm": "Montana",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "706": {
+    "currentId": "706",
+    "currentTerm": "Nebraska",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "707": {
+    "currentId": "707",
+    "currentTerm": "Nevada",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "708": {
+    "currentId": "708",
+    "currentTerm": "New Hampshire",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "709": {
+    "currentId": "709",
+    "currentTerm": "New Jersey",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "710": {
+    "currentId": "710",
+    "currentTerm": "New Mexico",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "711": {
+    "currentId": "711",
+    "currentTerm": "New York",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "712": {
+    "currentId": "712",
+    "currentTerm": "North Carolina",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "713": {
+    "currentId": "713",
+    "currentTerm": "North Dakota",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "714": {
+    "currentId": "714",
+    "currentTerm": "Ohio",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "715": {
+    "currentId": "715",
+    "currentTerm": "Oklahoma",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "716": {
+    "currentId": "716",
+    "currentTerm": "Oregon",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "717": {
+    "currentId": "717",
+    "currentTerm": "Pennsylvania",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "718": {
+    "currentId": "718",
+    "currentTerm": "Puerto Rico",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "719": {
+    "currentId": "719",
+    "currentTerm": "Rhode Island",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "720": {
+    "currentId": "720",
+    "currentTerm": "South Carolina",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "721": {
+    "currentId": "721",
+    "currentTerm": "South Dakota",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "722": {
+    "currentId": "722",
+    "currentTerm": "Tennessee",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "723": {
+    "currentId": "723",
+    "currentTerm": "Texas",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "724": {
+    "currentId": "724",
+    "currentTerm": "Utah",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "725": {
+    "currentId": "725",
+    "currentTerm": "Vermont",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "726": {
+    "currentId": "726",
+    "currentTerm": "Virginia",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "727": {
+    "currentId": "727",
+    "currentTerm": "Washington",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "728": {
+    "currentId": "728",
+    "currentTerm": "West Virginia",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "729": {
+    "currentId": "729",
+    "currentTerm": "Wisconsin",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "730": {
+    "currentId": "730",
+    "currentTerm": "Wyoming",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "731": {
+    "currentId": "731",
+    "currentTerm": "Work Force",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "50": {
+    "currentId": "50",
+    "currentTerm": "Electronics & Telecommunications",
+    "newMapping": "Electronics",
+    "otherNewMapping": "Advanced communications"
+  },
+  "247": {
+    "currentId": "247",
+    "currentTerm": "Advanced Materials",
+    "newMapping": "Electronics",
+    "otherNewMapping": "Materials"
+  },
+  "248": {
+    "currentId": "248",
+    "currentTerm": "Electromagnetics",
+    "newMapping": "Electromagnetics",
+    "otherNewMapping": ""
+  },
+  "249": {
+    "currentId": "249",
+    "currentTerm": "Ultrawideband",
+    "newMapping": "Wireless (RF)",
+    "otherNewMapping": ""
+  },
+  "250": {
+    "currentId": "250",
+    "currentTerm": "Electronic Temperature Standard",
+    "newMapping": "Thermometry metrology",
+    "otherNewMapping": ""
+  },
+  "251": {
+    "currentId": "251",
+    "currentTerm": "Johnson Noise Thermometry",
+    "newMapping": "Thermometry metrology",
+    "otherNewMapping": ""
+  },
+  "252": {
+    "currentId": "252",
+    "currentTerm": "Magnetics",
+    "newMapping": "Magnetics",
+    "otherNewMapping": ""
+  },
+  "253": {
+    "currentId": "253",
+    "currentTerm": "Spintronics",
+    "newMapping": "Magnetics",
+    "otherNewMapping": "Magnetoelectronics"
+  },
+  "254": {
+    "currentId": "254",
+    "currentTerm": "Microelectronics",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "255": {
+    "currentId": "255",
+    "currentTerm": "Atomic Layer Deposition",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "256": {
+    "currentId": "256",
+    "currentTerm": "Molecular Electronics",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": "Organic electronics"
+  },
+  "257": {
+    "currentId": "257",
+    "currentTerm": "Precursor Gas Properties",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "258": {
+    "currentId": "258",
+    "currentTerm": "Process Metrologies",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "259": {
+    "currentId": "259",
+    "currentTerm": "Microwave Measurement Services",
+    "newMapping": "Electrical \/ electromagnetic metrology",
+    "otherNewMapping": ""
+  },
+  "831": {
+    "currentId": "831",
+    "currentTerm": "Optical Properties of Materials",
+    "newMapping": "Optical physics",
+    "otherNewMapping": "Optical \/ photometry \/ laser metrology"
+  },
+  "260": {
+    "currentId": "260",
+    "currentTerm": "Optoelectronics",
+    "newMapping": "Optoelectronics",
+    "otherNewMapping": ""
+  },
+  "261": {
+    "currentId": "261",
+    "currentTerm": "Display Metrology",
+    "newMapping": "Optoelectronics",
+    "otherNewMapping": "Optical \/ photometry \/ laser metrology"
+  },
+  "270": {
+    "currentId": "270",
+    "currentTerm": "Quantum Communications",
+    "newMapping": "Quantum communications",
+    "otherNewMapping": "Quantum information science"
+  },
+  "262": {
+    "currentId": "262",
+    "currentTerm": "Quantum Electrical Measurements",
+    "newMapping": "Electrical \/ electromagnetic metrology",
+    "otherNewMapping": ""
+  },
+  "263": {
+    "currentId": "263",
+    "currentTerm": "Electrical Quantities",
+    "newMapping": "Electrical \/ electromagnetic metrology",
+    "otherNewMapping": ""
+  },
+  "264": {
+    "currentId": "264",
+    "currentTerm": "Hall Effect",
+    "newMapping": "Electrical \/ electromagnetic metrology",
+    "otherNewMapping": ""
+  },
+  "265": {
+    "currentId": "265",
+    "currentTerm": "Quantum Information and Measurements",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "266": {
+    "currentId": "266",
+    "currentTerm": "Sensors",
+    "newMapping": "Sensors",
+    "otherNewMapping": "Quantum information science"
+  },
+  "267": {
+    "currentId": "267",
+    "currentTerm": "Superconducting Electronics",
+    "newMapping": "Superconducting electronics",
+    "otherNewMapping": ""
+  },
+  "268": {
+    "currentId": "268",
+    "currentTerm": "Quantum Information and Measurements",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "269": {
+    "currentId": "269",
+    "currentTerm": "Terahertz Technology",
+    "newMapping": "Electromagnetics",
+    "otherNewMapping": ""
+  },
+  "271": {
+    "currentId": "271",
+    "currentTerm": "Semiconductors",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "272": {
+    "currentId": "272",
+    "currentTerm": "Analysis Tools and Techniques",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "273": {
+    "currentId": "273",
+    "currentTerm": "Characterization",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "274": {
+    "currentId": "274",
+    "currentTerm": "Critical Dimension and Overlay Metrology",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": "Dimensional metrology"
+  },
+  "275": {
+    "currentId": "275",
+    "currentTerm": "Device Design and Characterization",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "276": {
+    "currentId": "276",
+    "currentTerm": "Interconnect and Packaging Metrology",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "277": {
+    "currentId": "277",
+    "currentTerm": "Lithography Metrology",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": "Lithography"
+  },
+  "278": {
+    "currentId": "278",
+    "currentTerm": "Process Gases and Precursors",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "279": {
+    "currentId": "279",
+    "currentTerm": "Process Metrology",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "280": {
+    "currentId": "280",
+    "currentTerm": "System Design and Test  Metrology",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "281": {
+    "currentId": "281",
+    "currentTerm": "Sensors",
+    "newMapping": "Sensors",
+    "otherNewMapping": ""
+  },
+  "282": {
+    "currentId": "282",
+    "currentTerm": "Single Electronics",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": "Nanoelectronics"
+  },
+  "283": {
+    "currentId": "283",
+    "currentTerm": "Superconductors",
+    "newMapping": "Superconducting electronics",
+    "otherNewMapping": "Superconductors"
+  },
+  "284": {
+    "currentId": "284",
+    "currentTerm": "Telecommunications",
+    "newMapping": "Advanced communications",
+    "otherNewMapping": ""
+  },
+  "285": {
+    "currentId": "285",
+    "currentTerm": "U.S. Measurement System",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "286": {
+    "currentId": "286",
+    "currentTerm": "Wireless",
+    "newMapping": "Wireless (RF)",
+    "otherNewMapping": ""
+  },
+  "51": {
+    "currentId": "51",
+    "currentTerm": "Energy",
+    "newMapping": "Energy",
+    "otherNewMapping": ""
+  },
+  "1086": {
+    "currentId": "1086",
+    "currentTerm": "Alternative Energy",
+    "newMapping": "Alternative energy",
+    "otherNewMapping": ""
+  },
+  "1087": {
+    "currentId": "1087",
+    "currentTerm": "Biofuels",
+    "newMapping": "Alternative energy",
+    "otherNewMapping": "Fuels"
+  },
+  "1088": {
+    "currentId": "1088",
+    "currentTerm": "Fuel Cells",
+    "newMapping": "Alternative energy",
+    "otherNewMapping": "Fuels"
+  },
+  "1090": {
+    "currentId": "1090",
+    "currentTerm": "Hydrogen",
+    "newMapping": "Alternative energy",
+    "otherNewMapping": "Fuels"
+  },
+  "1089": {
+    "currentId": "1089",
+    "currentTerm": "Solar",
+    "newMapping": "Alternative energy",
+    "otherNewMapping": ""
+  },
+  "288": {
+    "currentId": "288",
+    "currentTerm": "Electric Power Metrology",
+    "newMapping": "Smart grid",
+    "otherNewMapping": ""
+  },
+  "290": {
+    "currentId": "290",
+    "currentTerm": "Energy Conservation",
+    "newMapping": "Energy efficiency",
+    "otherNewMapping": ""
+  },
+  "289": {
+    "currentId": "289",
+    "currentTerm": "Energy Conversion, Storage, and Transport",
+    "newMapping": "Energy",
+    "otherNewMapping": ""
+  },
+  "291": {
+    "currentId": "291",
+    "currentTerm": "Fossil Fuels",
+    "newMapping": "Conventional energy",
+    "otherNewMapping": "Fuels"
+  },
+  "295": {
+    "currentId": "295",
+    "currentTerm": "Sustainability",
+    "newMapping": "Energy",
+    "otherNewMapping": ""
+  },
+  "296": {
+    "currentId": "296",
+    "currentTerm": "U.S. Measurement System",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "52": {
+    "currentId": "52",
+    "currentTerm": "Environment\/Climate",
+    "newMapping": "Environment",
+    "otherNewMapping": ""
+  },
+  "300": {
+    "currentId": "300",
+    "currentTerm": "Climate Science",
+    "newMapping": "Greenhouse gases",
+    "otherNewMapping": ""
+  },
+  "297": {
+    "currentId": "297",
+    "currentTerm": "Environmental Technologies",
+    "newMapping": "Environment",
+    "otherNewMapping": ""
+  },
+  "298": {
+    "currentId": "298",
+    "currentTerm": "Environmental Compliance",
+    "newMapping": "Environment",
+    "otherNewMapping": ""
+  },
+  "299": {
+    "currentId": "299",
+    "currentTerm": "Refrigerants",
+    "newMapping": "Environment",
+    "otherNewMapping": ""
+  },
+  "301": {
+    "currentId": "301",
+    "currentTerm": "Marine Health",
+    "newMapping": "Marine science",
+    "otherNewMapping": ""
+  },
+  "302": {
+    "currentId": "302",
+    "currentTerm": "Nanotech\/Environment, Health & Safety",
+    "newMapping": "Environmental health",
+    "otherNewMapping": ""
+  },
+  "303": {
+    "currentId": "303",
+    "currentTerm": "Pollution\/Indoor Air Quality",
+    "newMapping": "Air \/ water \/ soil quality",
+    "otherNewMapping": "Indoor air quality"
+  },
+  "304": {
+    "currentId": "304",
+    "currentTerm": "Standard Reference Data",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "305": {
+    "currentId": "305",
+    "currentTerm": "Standard Reference Materials",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "306": {
+    "currentId": "306",
+    "currentTerm": "U.S. Measurement System",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "53": {
+    "currentId": "53",
+    "currentTerm": "Information Technology",
+    "newMapping": "Information technology",
+    "otherNewMapping": ""
+  },
+  "307": {
+    "currentId": "307",
+    "currentTerm": "Biometrics",
+    "newMapping": "Biometrics",
+    "otherNewMapping": ""
+  },
+  "1106": {
+    "currentId": "1106",
+    "currentTerm": "Cloud Computing",
+    "newMapping": "Cloud computing & virtualization",
+    "otherNewMapping": ""
+  },
+  "308": {
+    "currentId": "308",
+    "currentTerm": "Computer Forensics",
+    "newMapping": "Digital & multimedia evidence",
+    "otherNewMapping": ""
+  },
+  "309": {
+    "currentId": "309",
+    "currentTerm": "Computer Security",
+    "newMapping": "Cybersecurity",
+    "otherNewMapping": ""
+  },
+  "310": {
+    "currentId": "310",
+    "currentTerm": "Electronic Mail",
+    "newMapping": "Cybersecurity",
+    "otherNewMapping": ""
+  },
+  "311": {
+    "currentId": "311",
+    "currentTerm": "Federal Information Processing Standards",
+    "newMapping": "Federal information standards (FIPS)",
+    "otherNewMapping": ""
+  },
+  "312": {
+    "currentId": "312",
+    "currentTerm": "Threats & Vulnerabilities",
+    "newMapping": "Configuration & vulnerability management",
+    "otherNewMapping": ""
+  },
+  "313": {
+    "currentId": "313",
+    "currentTerm": "Conformance Testing",
+    "newMapping": "Conformance testing",
+    "otherNewMapping": ""
+  },
+  "1107": {
+    "currentId": "1107",
+    "currentTerm": "Cyber Education",
+    "newMapping": "Cybersecurity",
+    "otherNewMapping": ""
+  },
+  "314": {
+    "currentId": "314",
+    "currentTerm": "Cybersecurity",
+    "newMapping": "Cybersecurity",
+    "otherNewMapping": ""
+  },
+  "315": {
+    "currentId": "315",
+    "currentTerm": "Data Mining",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": ""
+  },
+  "316": {
+    "currentId": "316",
+    "currentTerm": "Data and Informatics",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": ""
+  },
+  "317": {
+    "currentId": "317",
+    "currentTerm": "Databases",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": ""
+  },
+  "318": {
+    "currentId": "318",
+    "currentTerm": "Statistics",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": "Statistical analysis"
+  },
+  "981": {
+    "currentId": "981",
+    "currentTerm": "Uncertainty Analysis",
+    "newMapping": "Uncertainty quantification",
+    "otherNewMapping": ""
+  },
+  "319": {
+    "currentId": "319",
+    "currentTerm": "Electronic Commerce",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": ""
+  },
+  "320": {
+    "currentId": "320",
+    "currentTerm": "Health IT",
+    "newMapping": "Healthcare IT",
+    "otherNewMapping": ""
+  },
+  "323": {
+    "currentId": "323",
+    "currentTerm": "Imaging",
+    "newMapping": "Image & signal processing",
+    "otherNewMapping": "Information technology"
+  },
+  "322": {
+    "currentId": "322",
+    "currentTerm": "Information Delivery Systems",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": ""
+  },
+  "324": {
+    "currentId": "324",
+    "currentTerm": "Information Processing Systems",
+    "newMapping": "Data & informatics",
+    "otherNewMapping": ""
+  },
+  "325": {
+    "currentId": "325",
+    "currentTerm": "Licensed Scientific Software Distribution",
+    "newMapping": "Numerical methods & software",
+    "otherNewMapping": ""
+  },
+  "326": {
+    "currentId": "326",
+    "currentTerm": "Networking",
+    "newMapping": "Networking",
+    "otherNewMapping": ""
+  },
+  "327": {
+    "currentId": "327",
+    "currentTerm": "Quantum Computing",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": "Information technology"
+  },
+  "328": {
+    "currentId": "328",
+    "currentTerm": "Scientific Computing",
+    "newMapping": "Computational science",
+    "otherNewMapping": ""
+  },
+  "329": {
+    "currentId": "329",
+    "currentTerm": "Visualization",
+    "newMapping": "Visualization research",
+    "otherNewMapping": "Image & signal processing"
+  },
+  "330": {
+    "currentId": "330",
+    "currentTerm": "Software Testing Metrics",
+    "newMapping": "Software testing",
+    "otherNewMapping": ""
+  },
+  "331": {
+    "currentId": "331",
+    "currentTerm": "System Development Lifecycle (SDLC)",
+    "newMapping": "Information technology",
+    "otherNewMapping": ""
+  },
+  "332": {
+    "currentId": "332",
+    "currentTerm": "Telcommunications\/Wireless",
+    "newMapping": "Wireless (RF)",
+    "otherNewMapping": ""
+  },
+  "333": {
+    "currentId": "333",
+    "currentTerm": "Voting Standards",
+    "newMapping": "Voting systems",
+    "otherNewMapping": ""
+  },
+  "54": {
+    "currentId": "54",
+    "currentTerm": "Manufacturing",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "334": {
+    "currentId": "334",
+    "currentTerm": "Energy",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "335": {
+    "currentId": "335",
+    "currentTerm": "Green Manufacturing",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "336": {
+    "currentId": "336",
+    "currentTerm": "Growth Services",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "337": {
+    "currentId": "337",
+    "currentTerm": "International Trade",
+    "newMapping": "Exports",
+    "otherNewMapping": ""
+  },
+  "338": {
+    "currentId": "338",
+    "currentTerm": "Lean Manufacturing",
+    "newMapping": "Lean manufacturing",
+    "otherNewMapping": ""
+  },
+  "339": {
+    "currentId": "339",
+    "currentTerm": "Metrology",
+    "newMapping": "Metrology",
+    "otherNewMapping": "Manufacturing"
+  },
+  "340": {
+    "currentId": "340",
+    "currentTerm": "Acceleration",
+    "newMapping": "Acoustic \/ vibration metrology",
+    "otherNewMapping": ""
+  },
+  "341": {
+    "currentId": "341",
+    "currentTerm": "Acoustical pressure measurement",
+    "newMapping": "Acoustic \/ vibration metrology",
+    "otherNewMapping": ""
+  },
+  "342": {
+    "currentId": "342",
+    "currentTerm": "Autonomous Navigation",
+    "newMapping": "Transportation",
+    "otherNewMapping": "Robotics in manufacturing"
+  },
+  "343": {
+    "currentId": "343",
+    "currentTerm": "Dimensional Metrology",
+    "newMapping": "Dimension metrology",
+    "otherNewMapping": ""
+  },
+  "344": {
+    "currentId": "344",
+    "currentTerm": "Electrical Metrology",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "345": {
+    "currentId": "345",
+    "currentTerm": "Flow",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "346": {
+    "currentId": "346",
+    "currentTerm": "Force",
+    "newMapping": "Force metrology",
+    "otherNewMapping": ""
+  },
+  "347": {
+    "currentId": "347",
+    "currentTerm": "Humidity",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "348": {
+    "currentId": "348",
+    "currentTerm": "Length",
+    "newMapping": "Dimensional metrology",
+    "otherNewMapping": ""
+  },
+  "349": {
+    "currentId": "349",
+    "currentTerm": "Mass",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "350": {
+    "currentId": "350",
+    "currentTerm": "Mechanical Metrology",
+    "newMapping": "Mass metrology",
+    "otherNewMapping": "Force metrology"
+  },
+  "353": {
+    "currentId": "353",
+    "currentTerm": "Metrology and Standards for Manufacturing Equipment",
+    "newMapping": "Robotics in manufacturing",
+    "otherNewMapping": "Process measurement and control"
+  },
+  "352": {
+    "currentId": "352",
+    "currentTerm": "Metrology and Standards for Manufacturing Processes",
+    "newMapping": "Process measurement & control",
+    "otherNewMapping": ""
+  },
+  "351": {
+    "currentId": "351",
+    "currentTerm": "Metrology and Standards for Manufacturing Systems and Data",
+    "newMapping": "Manufacturing systems design & analysis",
+    "otherNewMapping": ""
+  },
+  "354": {
+    "currentId": "354",
+    "currentTerm": "Model-based manufacturing",
+    "newMapping": "Manufacturing systems design & analysis",
+    "otherNewMapping": ""
+  },
+  "355": {
+    "currentId": "355",
+    "currentTerm": "Perception",
+    "newMapping": "Robotics in manufacturing",
+    "otherNewMapping": ""
+  },
+  "356": {
+    "currentId": "356",
+    "currentTerm": "Pressure & Vacuum",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "357": {
+    "currentId": "357",
+    "currentTerm": "Sensors",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "358": {
+    "currentId": "358",
+    "currentTerm": "Thermometry",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "360": {
+    "currentId": "360",
+    "currentTerm": "Nanomanufacturing",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": "Manufacturing"
+  },
+  "359": {
+    "currentId": "359",
+    "currentTerm": "Ontologies",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "361": {
+    "currentId": "361",
+    "currentTerm": "Process Improvement",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "362": {
+    "currentId": "362",
+    "currentTerm": "Performance Metrics",
+    "newMapping": "Manufacturing systems design & analysis",
+    "otherNewMapping": ""
+  },
+  "363": {
+    "currentId": "363",
+    "currentTerm": "Product Data",
+    "newMapping": "Interoperability in manufacturing",
+    "otherNewMapping": ""
+  },
+  "364": {
+    "currentId": "364",
+    "currentTerm": "RFID",
+    "newMapping": "Factory operations planning & control",
+    "otherNewMapping": ""
+  },
+  "365": {
+    "currentId": "365",
+    "currentTerm": "Robotics",
+    "newMapping": "Robotics in manufacturing",
+    "otherNewMapping": ""
+  },
+  "366": {
+    "currentId": "366",
+    "currentTerm": "Bomb-disposal robots",
+    "newMapping": "Response robots",
+    "otherNewMapping": ""
+  },
+  "367": {
+    "currentId": "367",
+    "currentTerm": "Manipulation",
+    "newMapping": "Robotics in manufacturing",
+    "otherNewMapping": ""
+  },
+  "368": {
+    "currentId": "368",
+    "currentTerm": "Mobility",
+    "newMapping": "Robotics in manufacturing",
+    "otherNewMapping": ""
+  },
+  "369": {
+    "currentId": "369",
+    "currentTerm": "Urban search and rescue robots",
+    "newMapping": "Response robots",
+    "otherNewMapping": "Search and rescue"
+  },
+  "370": {
+    "currentId": "370",
+    "currentTerm": "Simulation",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "371": {
+    "currentId": "371",
+    "currentTerm": "Strategic Management",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "373": {
+    "currentId": "373",
+    "currentTerm": "Supplier Development",
+    "newMapping": "Supply chain",
+    "otherNewMapping": ""
+  },
+  "372": {
+    "currentId": "372",
+    "currentTerm": "Supply Chain",
+    "newMapping": "Supply chain",
+    "otherNewMapping": ""
+  },
+  "374": {
+    "currentId": "374",
+    "currentTerm": "Sustainable Manufacturing",
+    "newMapping": "Sustainable manufacturing",
+    "otherNewMapping": ""
+  },
+  "375": {
+    "currentId": "375",
+    "currentTerm": "Systems Integration",
+    "newMapping": "Manufacturing systems design & analysis",
+    "otherNewMapping": ""
+  },
+  "1025": {
+    "currentId": "1025",
+    "currentTerm": "Technology Acceleration",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "376": {
+    "currentId": "376",
+    "currentTerm": "Technology Commercialization",
+    "newMapping": "Technology commercialization",
+    "otherNewMapping": ""
+  },
+  "377": {
+    "currentId": "377",
+    "currentTerm": "Technology Deployment",
+    "newMapping": "Manufacturing",
+    "otherNewMapping": ""
+  },
+  "1024": {
+    "currentId": "1024",
+    "currentTerm": "Work Force",
+    "newMapping": "Work force",
+    "otherNewMapping": ""
+  },
+  "55": {
+    "currentId": "55",
+    "currentTerm": "Materials Science",
+    "newMapping": "Materials",
+    "otherNewMapping": ""
+  },
+  "378": {
+    "currentId": "378",
+    "currentTerm": "Advanced Materials",
+    "newMapping": "Materials",
+    "otherNewMapping": ""
+  },
+  "412": {
+    "currentId": "412",
+    "currentTerm": "Biomaterials",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "380": {
+    "currentId": "380",
+    "currentTerm": "Ceramics",
+    "newMapping": "Ceramics",
+    "otherNewMapping": ""
+  },
+  "381": {
+    "currentId": "381",
+    "currentTerm": "Dental",
+    "newMapping": "Dentistry",
+    "otherNewMapping": ""
+  },
+  "382": {
+    "currentId": "382",
+    "currentTerm": "Nanomaterials",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "383": {
+    "currentId": "383",
+    "currentTerm": "Polymers",
+    "newMapping": "Polymers",
+    "otherNewMapping": ""
+  },
+  "384": {
+    "currentId": "384",
+    "currentTerm": "Biomaterials",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "385": {
+    "currentId": "385",
+    "currentTerm": "Biocompatability",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "386": {
+    "currentId": "386",
+    "currentTerm": "Characterization",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "387": {
+    "currentId": "387",
+    "currentTerm": "Dental",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "388": {
+    "currentId": "388",
+    "currentTerm": "Metrology",
+    "newMapping": "Biomaterials",
+    "otherNewMapping": ""
+  },
+  "389": {
+    "currentId": "389",
+    "currentTerm": "Ceramics",
+    "newMapping": "Ceramics",
+    "otherNewMapping": ""
+  },
+  "390": {
+    "currentId": "390",
+    "currentTerm": "Electronics",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "391": {
+    "currentId": "391",
+    "currentTerm": "Nanometrology",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "392": {
+    "currentId": "392",
+    "currentTerm": "Properties",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "393": {
+    "currentId": "393",
+    "currentTerm": "Structures",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "394": {
+    "currentId": "394",
+    "currentTerm": "Synchrotron Methods",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "395": {
+    "currentId": "395",
+    "currentTerm": "Evaluation",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": ""
+  },
+  "396": {
+    "currentId": "396",
+    "currentTerm": "Modeling",
+    "newMapping": "Modeling & computational material science",
+    "otherNewMapping": ""
+  },
+  "397": {
+    "currentId": "397",
+    "currentTerm": "Nondestructive",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": ""
+  },
+  "398": {
+    "currentId": "398",
+    "currentTerm": "Reliability",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": ""
+  },
+  "399": {
+    "currentId": "399",
+    "currentTerm": "Sensing",
+    "newMapping": "Materials characterization",
+    "otherNewMapping": ""
+  },
+  "400": {
+    "currentId": "400",
+    "currentTerm": "Hybrid Materials",
+    "newMapping": "Composites",
+    "otherNewMapping": ""
+  },
+  "401": {
+    "currentId": "401",
+    "currentTerm": "Inorganic Materials",
+    "newMapping": "Materials",
+    "otherNewMapping": ""
+  },
+  "402": {
+    "currentId": "402",
+    "currentTerm": "Concrete\/Cement",
+    "newMapping": "Concrete \/ cement",
+    "otherNewMapping": ""
+  },
+  "403": {
+    "currentId": "403",
+    "currentTerm": "Service Life Prediction",
+    "newMapping": "Materials",
+    "otherNewMapping": ""
+  },
+  "404": {
+    "currentId": "404",
+    "currentTerm": "Metals",
+    "newMapping": "Metals",
+    "otherNewMapping": ""
+  },
+  "405": {
+    "currentId": "405",
+    "currentTerm": "Magnetic materials",
+    "newMapping": "Metals",
+    "otherNewMapping": ""
+  },
+  "406": {
+    "currentId": "406",
+    "currentTerm": "Materials performance",
+    "newMapping": "Metals",
+    "otherNewMapping": ""
+  },
+  "407": {
+    "currentId": "407",
+    "currentTerm": "Nanostructures",
+    "newMapping": "Metals",
+    "otherNewMapping": ""
+  },
+  "408": {
+    "currentId": "408",
+    "currentTerm": "Thermodynamics and kinetics",
+    "newMapping": "Metals",
+    "otherNewMapping": ""
+  },
+  "409": {
+    "currentId": "409",
+    "currentTerm": "Thin-Films",
+    "newMapping": "Metals",
+    "otherNewMapping": ""
+  },
+  "410": {
+    "currentId": "410",
+    "currentTerm": "Nanomaterials",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "411": {
+    "currentId": "411",
+    "currentTerm": "Polymers",
+    "newMapping": "Polymers",
+    "otherNewMapping": ""
+  },
+  "413": {
+    "currentId": "413",
+    "currentTerm": "Biomaterials",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "414": {
+    "currentId": "414",
+    "currentTerm": "Characterization",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "415": {
+    "currentId": "415",
+    "currentTerm": "Combinatorial Methods",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "1066": {
+    "currentId": "1066",
+    "currentTerm": "Complex Fluids",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "416": {
+    "currentId": "416",
+    "currentTerm": "Electronics",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "417": {
+    "currentId": "417",
+    "currentTerm": "Fire Retardant Polymers",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "418": {
+    "currentId": "418",
+    "currentTerm": "Nanomaterials",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "419": {
+    "currentId": "419",
+    "currentTerm": "Processing",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "420": {
+    "currentId": "420",
+    "currentTerm": "Service Life Prediction",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "421": {
+    "currentId": "421",
+    "currentTerm": "Semiconductor Materials",
+    "newMapping": "Semiconductors",
+    "otherNewMapping": ""
+  },
+  "125": {
+    "currentId": "125",
+    "currentTerm": "Math",
+    "newMapping": "Mathematics and Statistics",
+    "otherNewMapping": ""
+  },
+  "422": {
+    "currentId": "422",
+    "currentTerm": "Modeling",
+    "newMapping": "Modeling & simulation research",
+    "otherNewMapping": ""
+  },
+  "423": {
+    "currentId": "423",
+    "currentTerm": "Software",
+    "newMapping": "Numerical methods & software",
+    "otherNewMapping": ""
+  },
+  "424": {
+    "currentId": "424",
+    "currentTerm": "Statistics",
+    "newMapping": "Statistical analysis",
+    "otherNewMapping": ""
+  },
+  "126": {
+    "currentId": "126",
+    "currentTerm": "Measurements",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "425": {
+    "currentId": "425",
+    "currentTerm": "Assessment",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "426": {
+    "currentId": "426",
+    "currentTerm": "Impacts",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "427": {
+    "currentId": "427",
+    "currentTerm": "Instrumentation",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "428": {
+    "currentId": "428",
+    "currentTerm": "Measurement Needs",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "429": {
+    "currentId": "429",
+    "currentTerm": "Measurement Services",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "430": {
+    "currentId": "430",
+    "currentTerm": "Measurement Solutions",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "431": {
+    "currentId": "431",
+    "currentTerm": "Policy",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "432": {
+    "currentId": "432",
+    "currentTerm": "Roadmaps",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "433": {
+    "currentId": "433",
+    "currentTerm": "U.S. Measurement System",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "434": {
+    "currentId": "434",
+    "currentTerm": "Weights & Measures",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "1126": {
+    "currentId": "1126",
+    "currentTerm": "Methods",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "1146": {
+    "currentId": "1146",
+    "currentTerm": "Protocols",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "732": {
+    "currentId": "732",
+    "currentTerm": "NIST General",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "735": {
+    "currentId": "735",
+    "currentTerm": "Advisory Committees\/Review Panels",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "734": {
+    "currentId": "734",
+    "currentTerm": "Budget\/Acquisitions",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "736": {
+    "currentId": "736",
+    "currentTerm": "Capital Planning and Investment",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "737": {
+    "currentId": "737",
+    "currentTerm": "Chief Human Capital Officer",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "738": {
+    "currentId": "738",
+    "currentTerm": "Human Resources",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "739": {
+    "currentId": "739",
+    "currentTerm": "Leadership & Employee Development",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "740": {
+    "currentId": "740",
+    "currentTerm": "Management & Organization",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "741": {
+    "currentId": "741",
+    "currentTerm": "Safety & Health",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "742": {
+    "currentId": "742",
+    "currentTerm": "Conferences",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "743": {
+    "currentId": "743",
+    "currentTerm": "Congressional Testimony",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "744": {
+    "currentId": "744",
+    "currentTerm": "Economics",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "745": {
+    "currentId": "745",
+    "currentTerm": "Educational",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "746": {
+    "currentId": "746",
+    "currentTerm": "Employee Assistance Program",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "747": {
+    "currentId": "747",
+    "currentTerm": "Employment",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "748": {
+    "currentId": "748",
+    "currentTerm": "Pay & Benefits",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "749": {
+    "currentId": "749",
+    "currentTerm": "History",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "750": {
+    "currentId": "750",
+    "currentTerm": "Legislation",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "751": {
+    "currentId": "751",
+    "currentTerm": "Museum",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "752": {
+    "currentId": "752",
+    "currentTerm": "News Releases",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "753": {
+    "currentId": "753",
+    "currentTerm": "Operating Units",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "755": {
+    "currentId": "755",
+    "currentTerm": "BFRL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "754": {
+    "currentId": "754",
+    "currentTerm": "BNQP",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "982": {
+    "currentId": "982",
+    "currentTerm": "CNST",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "757": {
+    "currentId": "757",
+    "currentTerm": "CSTL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "758": {
+    "currentId": "758",
+    "currentTerm": "EEEL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "759": {
+    "currentId": "759",
+    "currentTerm": "ITL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "760": {
+    "currentId": "760",
+    "currentTerm": "MEL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "761": {
+    "currentId": "761",
+    "currentTerm": "MEP",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "762": {
+    "currentId": "762",
+    "currentTerm": "MSEL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "763": {
+    "currentId": "763",
+    "currentTerm": "NCNR",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "764": {
+    "currentId": "764",
+    "currentTerm": "PL",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "765": {
+    "currentId": "765",
+    "currentTerm": "TIP",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "766": {
+    "currentId": "766",
+    "currentTerm": "TS",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "767": {
+    "currentId": "767",
+    "currentTerm": "Research Library",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "768": {
+    "currentId": "768",
+    "currentTerm": "Strategic Planning",
+    "newMapping": "",
+    "otherNewMapping": ""
+  },
+  "127": {
+    "currentId": "127",
+    "currentTerm": "Nanotechnology",
+    "newMapping": "Nanotechnology",
+    "otherNewMapping": ""
+  },
+  "438": {
+    "currentId": "438",
+    "currentTerm": "Characterization, Nanometrology, and Nanoscale Measurements",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "439": {
+    "currentId": "439",
+    "currentTerm": "Atomic force microscopy (AFM)",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "440": {
+    "currentId": "440",
+    "currentTerm": "Electron microscopy (EM, TEM, SEM, STEM)",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "441": {
+    "currentId": "441",
+    "currentTerm": "Electrospray Differential Mobility Analysis (ES-DMA)",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "442": {
+    "currentId": "442",
+    "currentTerm": "Focused ion beam imaging (FIB)",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "443": {
+    "currentId": "443",
+    "currentTerm": "Optical microscopy",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "444": {
+    "currentId": "444",
+    "currentTerm": "Scanning tunneling microscopy (STM)",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "445": {
+    "currentId": "445",
+    "currentTerm": "Scanning tunneling spectroscopy (STS)",
+    "newMapping": "Nanometrology",
+    "otherNewMapping": ""
+  },
+  "436": {
+    "currentId": "436",
+    "currentTerm": "Nanobiotechnology",
+    "newMapping": "Nanobiotechnology",
+    "otherNewMapping": ""
+  },
+  "437": {
+    "currentId": "437",
+    "currentTerm": "Nanochemistry",
+    "newMapping": "Nanochemistry",
+    "otherNewMapping": ""
+  },
+  "446": {
+    "currentId": "446",
+    "currentTerm": "Nanoelectronics and Nanoscale Electronics",
+    "newMapping": "Nanoelectronics",
+    "otherNewMapping": ""
+  },
+  "447": {
+    "currentId": "447",
+    "currentTerm": "Nanophotonics",
+    "newMapping": "Nanophotonics",
+    "otherNewMapping": ""
+  },
+  "448": {
+    "currentId": "448",
+    "currentTerm": "Nanoplasmonics",
+    "newMapping": "Nanoplasmonics",
+    "otherNewMapping": ""
+  },
+  "449": {
+    "currentId": "449",
+    "currentTerm": "Nanowires",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "450": {
+    "currentId": "450",
+    "currentTerm": "Nanofabrication, Nanomanufacturing, and Nanoprocessing",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": ""
+  },
+  "451": {
+    "currentId": "451",
+    "currentTerm": "Block copolymer lithography",
+    "newMapping": "Self-assembly",
+    "otherNewMapping": "Lithography"
+  },
+  "452": {
+    "currentId": "452",
+    "currentTerm": "Deposition",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": ""
+  },
+  "453": {
+    "currentId": "453",
+    "currentTerm": "Direct-write lithography",
+    "newMapping": "Lithography",
+    "otherNewMapping": ""
+  },
+  "454": {
+    "currentId": "454",
+    "currentTerm": "Directed self-assembly",
+    "newMapping": "Self-assembly",
+    "otherNewMapping": ""
+  },
+  "455": {
+    "currentId": "455",
+    "currentTerm": "Electron beam lithography (EBL)",
+    "newMapping": "Lithography",
+    "otherNewMapping": ""
+  },
+  "456": {
+    "currentId": "456",
+    "currentTerm": "Etch",
+    "newMapping": "Lithography",
+    "otherNewMapping": ""
+  },
+  "457": {
+    "currentId": "457",
+    "currentTerm": "Focused ion beam milling (FIB)",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": ""
+  },
+  "458": {
+    "currentId": "458",
+    "currentTerm": "Inspection",
+    "newMapping": "Nanofabrication \/ manufacturing",
+    "otherNewMapping": ""
+  },
+  "459": {
+    "currentId": "459",
+    "currentTerm": "Interference lithography",
+    "newMapping": "Lithography",
+    "otherNewMapping": ""
+  },
+  "460": {
+    "currentId": "460",
+    "currentTerm": "Nanoimprint lithography",
+    "newMapping": "Lithography",
+    "otherNewMapping": ""
+  },
+  "461": {
+    "currentId": "461",
+    "currentTerm": "Optical lithography",
+    "newMapping": "Lithography",
+    "otherNewMapping": ""
+  },
+  "462": {
+    "currentId": "462",
+    "currentTerm": "Nanofluidics",
+    "newMapping": "Nanofluidics",
+    "otherNewMapping": ""
+  },
+  "463": {
+    "currentId": "463",
+    "currentTerm": "Nanomagnetics",
+    "newMapping": "Nanomagnetics",
+    "otherNewMapping": ""
+  },
+  "464": {
+    "currentId": "464",
+    "currentTerm": "Nanomechanics",
+    "newMapping": "Nanomechanics",
+    "otherNewMapping": ""
+  },
+  "465": {
+    "currentId": "465",
+    "currentTerm": "Microelectromechanical systems (MEMS)",
+    "newMapping": "Nanomechanics",
+    "otherNewMapping": ""
+  },
+  "466": {
+    "currentId": "466",
+    "currentTerm": "Nanoelectromechanical systems (NEMS)",
+    "newMapping": "Nanomechanics",
+    "otherNewMapping": ""
+  },
+  "467": {
+    "currentId": "467",
+    "currentTerm": "Nanophysics",
+    "newMapping": "Nanophysics",
+    "otherNewMapping": ""
+  },
+  "469": {
+    "currentId": "469",
+    "currentTerm": "Nanostructured Materials",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "470": {
+    "currentId": "470",
+    "currentTerm": "Carbon Nanotubes",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "472": {
+    "currentId": "472",
+    "currentTerm": "Nanocomposites",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "471": {
+    "currentId": "471",
+    "currentTerm": "Nanoparticles",
+    "newMapping": "Nanomaterials",
+    "otherNewMapping": ""
+  },
+  "468": {
+    "currentId": "468",
+    "currentTerm": "Nanotech\/Environment, Health & Safety",
+    "newMapping": "Nanotechnology",
+    "otherNewMapping": "Environmental health"
+  },
+  "128": {
+    "currentId": "128",
+    "currentTerm": "Neutron Research",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "961": {
+    "currentId": "961",
+    "currentTerm": "Biomolecular Science",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "962": {
+    "currentId": "962",
+    "currentTerm": "Chemical Physics",
+    "newMapping": "Neutron research",
+    "otherNewMapping": "Atomic \/ molecular \/ quantum"
+  },
+  "963": {
+    "currentId": "963",
+    "currentTerm": "Condensed Matter Physics",
+    "newMapping": "Neutron research",
+    "otherNewMapping": "Condensed matter"
+  },
+  "964": {
+    "currentId": "964",
+    "currentTerm": "Earth Sciences",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "965": {
+    "currentId": "965",
+    "currentTerm": "Engineering\/Residual Stress",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "966": {
+    "currentId": "966",
+    "currentTerm": "Instrumentation",
+    "newMapping": "Neutron research",
+    "otherNewMapping": "Metrology"
+  },
+  "967": {
+    "currentId": "967",
+    "currentTerm": "Materials Chemistry and Crystallography",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "968": {
+    "currentId": "968",
+    "currentTerm": "Neutron Physics",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "1166": {
+    "currentId": "1166",
+    "currentTerm": "Reactor Engineering",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "969": {
+    "currentId": "969",
+    "currentTerm": "Soft Condensed Matter",
+    "newMapping": "Neutron research",
+    "otherNewMapping": ""
+  },
+  "129": {
+    "currentId": "129",
+    "currentTerm": "Physics",
+    "newMapping": "Physics",
+    "otherNewMapping": ""
+  },
+  "473": {
+    "currentId": "473",
+    "currentTerm": "Atomic Physics",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "483": {
+    "currentId": "483",
+    "currentTerm": "Atomic Collisions",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "478": {
+    "currentId": "478",
+    "currentTerm": "Atomic Oscillator Strengths",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "475": {
+    "currentId": "475",
+    "currentTerm": "Atomic Spectroscopy",
+    "newMapping": "Spectroscopy",
+    "otherNewMapping": ""
+  },
+  "476": {
+    "currentId": "476",
+    "currentTerm": "Atomic Structure",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "477": {
+    "currentId": "477",
+    "currentTerm": "Atomic Theory",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "481": {
+    "currentId": "481",
+    "currentTerm": "Bose Einstein Condensation",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "479": {
+    "currentId": "479",
+    "currentTerm": "Electron-atom Scattering",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "486": {
+    "currentId": "486",
+    "currentTerm": "Feshbach Resonances",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "482": {
+    "currentId": "482",
+    "currentTerm": "Ion Trapping",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "474": {
+    "currentId": "474",
+    "currentTerm": "Laser Cooling",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "480": {
+    "currentId": "480",
+    "currentTerm": "Optical Lattices",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "485": {
+    "currentId": "485",
+    "currentTerm": "Photoassociation Spectroscopy",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "484": {
+    "currentId": "484",
+    "currentTerm": "Ultracold Collisions",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "487": {
+    "currentId": "487",
+    "currentTerm": "Biological Physics",
+    "newMapping": "Biological physics",
+    "otherNewMapping": ""
+  },
+  "1021": {
+    "currentId": "1021",
+    "currentTerm": "Quantitative Molecular Imaging",
+    "newMapping": "Biological physics",
+    "otherNewMapping": ""
+  },
+  "1023": {
+    "currentId": "1023",
+    "currentTerm": "Single Molecule Biophysics",
+    "newMapping": "Biological physics",
+    "otherNewMapping": ""
+  },
+  "488": {
+    "currentId": "488",
+    "currentTerm": "Chemical Physics",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "489": {
+    "currentId": "489",
+    "currentTerm": "Cold Atoms",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "490": {
+    "currentId": "490",
+    "currentTerm": "Condensed Matter Physics",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "491": {
+    "currentId": "491",
+    "currentTerm": "Bose Hubbard Model",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "495": {
+    "currentId": "495",
+    "currentTerm": "Critical Phenomena",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "493": {
+    "currentId": "493",
+    "currentTerm": "Fermi Hubbard Model\/Hubbard Model",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "494": {
+    "currentId": "494",
+    "currentTerm": "Phase Diagrams",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "496": {
+    "currentId": "496",
+    "currentTerm": "Quantum Phase Transitions",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "497": {
+    "currentId": "497",
+    "currentTerm": "Superconductivity",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "498": {
+    "currentId": "498",
+    "currentTerm": "Electron Physics",
+    "newMapping": "Electron physics",
+    "otherNewMapping": ""
+  },
+  "499": {
+    "currentId": "499",
+    "currentTerm": "Ion Trapping",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "500": {
+    "currentId": "500",
+    "currentTerm": "Laser Cooling",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "501": {
+    "currentId": "501",
+    "currentTerm": "Laser Physics",
+    "newMapping": "Optical physics",
+    "otherNewMapping": ""
+  },
+  "502": {
+    "currentId": "502",
+    "currentTerm": "Medical Physics",
+    "newMapping": "Biological physics",
+    "otherNewMapping": ""
+  },
+  "503": {
+    "currentId": "503",
+    "currentTerm": "Molecular Physics",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "504": {
+    "currentId": "504",
+    "currentTerm": "Nuclear Physics",
+    "newMapping": "Nuclear physics",
+    "otherNewMapping": ""
+  },
+  "505": {
+    "currentId": "505",
+    "currentTerm": "Optical Metrology",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "506": {
+    "currentId": "506",
+    "currentTerm": "Optical Physics",
+    "newMapping": "Optical physics",
+    "otherNewMapping": ""
+  },
+  "507": {
+    "currentId": "507",
+    "currentTerm": "Optical Tweezers",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": "Optical physics"
+  },
+  "1002": {
+    "currentId": "1002",
+    "currentTerm": "Optical Technology",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1006": {
+    "currentId": "1006",
+    "currentTerm": "Aperture Area Measurements",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1003": {
+    "currentId": "1003",
+    "currentTerm": "Colorimetry",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1004": {
+    "currentId": "1004",
+    "currentTerm": "Detector Metrology",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1005": {
+    "currentId": "1005",
+    "currentTerm": "Optical Properties of Materials",
+    "newMapping": "Optical physics",
+    "otherNewMapping": "Optical \/ photometry \/ laser metrology"
+  },
+  "1007": {
+    "currentId": "1007",
+    "currentTerm": "Optical Scattering",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1008": {
+    "currentId": "1008",
+    "currentTerm": "Photometry",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1016": {
+    "currentId": "1016",
+    "currentTerm": "Radiance Temperature",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1046": {
+    "currentId": "1046",
+    "currentTerm": "Radiometry",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1009": {
+    "currentId": "1009",
+    "currentTerm": "Spectrally Tunable Sources",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1010": {
+    "currentId": "1010",
+    "currentTerm": "Spectrophotometry",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1011": {
+    "currentId": "1011",
+    "currentTerm": "Spectroradiometry",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1012": {
+    "currentId": "1012",
+    "currentTerm": "Terahertz Metrology",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1013": {
+    "currentId": "1013",
+    "currentTerm": "Theoretical Computation and Modeling",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1014": {
+    "currentId": "1014",
+    "currentTerm": "UV Optical Metrology",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "1015": {
+    "currentId": "1015",
+    "currentTerm": "Vision Science",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "508": {
+    "currentId": "508",
+    "currentTerm": "Optics",
+    "newMapping": "Optical physics",
+    "otherNewMapping": ""
+  },
+  "509": {
+    "currentId": "509",
+    "currentTerm": "Plasma Physics",
+    "newMapping": "Physics",
+    "otherNewMapping": ""
+  },
+  "510": {
+    "currentId": "510",
+    "currentTerm": "Plasma Diagnostics",
+    "newMapping": "Physics",
+    "otherNewMapping": ""
+  },
+  "511": {
+    "currentId": "511",
+    "currentTerm": "Plasma Spectroscopy",
+    "newMapping": "Physics",
+    "otherNewMapping": ""
+  },
+  "512": {
+    "currentId": "512",
+    "currentTerm": "Quantum Information",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "518": {
+    "currentId": "518",
+    "currentTerm": "Entanglement",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "514": {
+    "currentId": "514",
+    "currentTerm": "Quantum Communications",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": "Quantum communications"
+  },
+  "513": {
+    "currentId": "513",
+    "currentTerm": "Quantum Computing\/Quantum Computation",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "517": {
+    "currentId": "517",
+    "currentTerm": "Quantum Devices",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "1022": {
+    "currentId": "1022",
+    "currentTerm": "Quantum Information Technology",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "515": {
+    "currentId": "515",
+    "currentTerm": "Quantum Key Distribution",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "516": {
+    "currentId": "516",
+    "currentTerm": "Quantum Simulation",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "519": {
+    "currentId": "519",
+    "currentTerm": "Teleportation",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "520": {
+    "currentId": "520",
+    "currentTerm": "Quantum Optics",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "1018": {
+    "currentId": "1018",
+    "currentTerm": "Correlated Photon Radiometry",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": "Optical \/ photometry \/ laser metrology"
+  },
+  "523": {
+    "currentId": "523",
+    "currentTerm": "Entangled Photons",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "522": {
+    "currentId": "522",
+    "currentTerm": "Single Photon Detectors",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "521": {
+    "currentId": "521",
+    "currentTerm": "Single Photon Sources",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "524": {
+    "currentId": "524",
+    "currentTerm": "Squeezing",
+    "newMapping": "Quantum information science",
+    "otherNewMapping": ""
+  },
+  "525": {
+    "currentId": "525",
+    "currentTerm": "Quantum Physics",
+    "newMapping": "Atomic \/ molecular \/ quantum",
+    "otherNewMapping": ""
+  },
+  "526": {
+    "currentId": "526",
+    "currentTerm": "Radiation Physics",
+    "newMapping": "Radiation",
+    "otherNewMapping": ""
+  },
+  "527": {
+    "currentId": "527",
+    "currentTerm": "Remote Sensing",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "528": {
+    "currentId": "528",
+    "currentTerm": "Surface Physics",
+    "newMapping": "Condensed matter",
+    "otherNewMapping": ""
+  },
+  "530": {
+    "currentId": "530",
+    "currentTerm": "Synchrotron",
+    "newMapping": "Optical physics",
+    "otherNewMapping": "Radiation"
+  },
+  "531": {
+    "currentId": "531",
+    "currentTerm": "Time and Frequency",
+    "newMapping": "Time & frequency",
+    "otherNewMapping": ""
+  },
+  "130": {
+    "currentId": "130",
+    "currentTerm": "Public Safety\/Security",
+    "newMapping": "Public Safety",
+    "otherNewMapping": ""
+  },
+  "532": {
+    "currentId": "532",
+    "currentTerm": "Biosecurity",
+    "newMapping": "Chemical \/ Biological \/ Radiological \/ Nuclear \/ Explosives (CBRNE)",
+    "otherNewMapping": ""
+  },
+  "533": {
+    "currentId": "533",
+    "currentTerm": "Consumer Safety",
+    "newMapping": "Public Safety",
+    "otherNewMapping": ""
+  },
+  "534": {
+    "currentId": "534",
+    "currentTerm": "Disaster Investigations",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": ""
+  },
+  "535": {
+    "currentId": "535",
+    "currentTerm": "Earthquakes",
+    "newMapping": "Earthquake risk reduction",
+    "otherNewMapping": ""
+  },
+  "536": {
+    "currentId": "536",
+    "currentTerm": "Fire Research",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "537": {
+    "currentId": "537",
+    "currentTerm": "Fire Analysis & Prediction",
+    "newMapping": "Fire risk reduction",
+    "otherNewMapping": ""
+  },
+  "538": {
+    "currentId": "538",
+    "currentTerm": "Fire Fighting Technologies",
+    "newMapping": "Fire fighting",
+    "otherNewMapping": ""
+  },
+  "539": {
+    "currentId": "539",
+    "currentTerm": "Fire Modeling",
+    "newMapping": "Fire modeling",
+    "otherNewMapping": ""
+  },
+  "540": {
+    "currentId": "540",
+    "currentTerm": "Fire Safety Codes and Standards",
+    "newMapping": "Fire risk reduction",
+    "otherNewMapping": "Building codes & standards"
+  },
+  "541": {
+    "currentId": "541",
+    "currentTerm": "Fire Safety Research",
+    "newMapping": "Fire",
+    "otherNewMapping": ""
+  },
+  "542": {
+    "currentId": "542",
+    "currentTerm": "First Responder",
+    "newMapping": "First responder preparedness",
+    "otherNewMapping": "Disaster preparation \/ response \/ recovery"
+  },
+  "543": {
+    "currentId": "543",
+    "currentTerm": "Homeland Security",
+    "newMapping": "Public Safety",
+    "otherNewMapping": ""
+  },
+  "546": {
+    "currentId": "546",
+    "currentTerm": "Chemical\/Biological\/Radiological\/Nuclear\/Explosives (CBRNE)",
+    "newMapping": "Chemical \/ Biological \/ Radiological \/ Nuclear \/ Explosives (CBRNE)",
+    "otherNewMapping": ""
+  },
+  "548": {
+    "currentId": "548",
+    "currentTerm": "Critical Infrastructure Protection (CIP)",
+    "newMapping": "Public Safety",
+    "otherNewMapping": ""
+  },
+  "549": {
+    "currentId": "549",
+    "currentTerm": "Cybersecurity",
+    "newMapping": "Cybersecurity",
+    "otherNewMapping": ""
+  },
+  "547": {
+    "currentId": "547",
+    "currentTerm": "National Construction Safety Team Investigations",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": ""
+  },
+  "545": {
+    "currentId": "545",
+    "currentTerm": "Other Disaster and Failure Investigations",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": ""
+  },
+  "544": {
+    "currentId": "544",
+    "currentTerm": "World Trade Center Investigation",
+    "newMapping": "Disaster & failure studies",
+    "otherNewMapping": ""
+  },
+  "550": {
+    "currentId": "550",
+    "currentTerm": "Law Enforcement",
+    "newMapping": "Law enforcement",
+    "otherNewMapping": ""
+  },
+  "551": {
+    "currentId": "551",
+    "currentTerm": "Ballistics",
+    "newMapping": "Ballistics",
+    "otherNewMapping": ""
+  },
+  "552": {
+    "currentId": "552",
+    "currentTerm": "Biometrics",
+    "newMapping": "Law enforcement",
+    "otherNewMapping": "Forensics"
+  },
+  "553": {
+    "currentId": "553",
+    "currentTerm": "Communications",
+    "newMapping": "Public safety communications research",
+    "otherNewMapping": ""
+  },
+  "554": {
+    "currentId": "554",
+    "currentTerm": "Forensics",
+    "newMapping": "Forensics",
+    "otherNewMapping": ""
+  },
+  "555": {
+    "currentId": "555",
+    "currentTerm": "Robotics",
+    "newMapping": "Response robots",
+    "otherNewMapping": ""
+  },
+  "556": {
+    "currentId": "556",
+    "currentTerm": "Weapons & Protective Systems",
+    "newMapping": "Law enforcement",
+    "otherNewMapping": ""
+  },
+  "557": {
+    "currentId": "557",
+    "currentTerm": "Risk Analysis",
+    "newMapping": "Public Safety",
+    "otherNewMapping": ""
+  },
+  "558": {
+    "currentId": "558",
+    "currentTerm": "Robotics",
+    "newMapping": "Response robots",
+    "otherNewMapping": ""
+  },
+  "559": {
+    "currentId": "559",
+    "currentTerm": "Structural Safety",
+    "newMapping": "Structural engineering",
+    "otherNewMapping": ""
+  },
+  "131": {
+    "currentId": "131",
+    "currentTerm": "Quality",
+    "newMapping": "Conformity assessment",
+    "otherNewMapping": ""
+  },
+  "560": {
+    "currentId": "560",
+    "currentTerm": "Accreditation",
+    "newMapping": "Accreditation",
+    "otherNewMapping": ""
+  },
+  "561": {
+    "currentId": "561",
+    "currentTerm": "Baldrige National Quality Program",
+    "newMapping": "Performance excellence",
+    "otherNewMapping": ""
+  },
+  "562": {
+    "currentId": "562",
+    "currentTerm": "Award Process",
+    "newMapping": "Baldrige Framework & Criteria",
+    "otherNewMapping": ""
+  },
+  "563": {
+    "currentId": "563",
+    "currentTerm": "Award Recipients",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "564": {
+    "currentId": "564",
+    "currentTerm": "Board of Examiners",
+    "newMapping": "Baldrige examiners",
+    "otherNewMapping": ""
+  },
+  "565": {
+    "currentId": "565",
+    "currentTerm": "Criteria",
+    "newMapping": "Baldrige Framework & Criteria",
+    "otherNewMapping": ""
+  },
+  "1026": {
+    "currentId": "1026",
+    "currentTerm": "Education",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "566": {
+    "currentId": "566",
+    "currentTerm": "Health Care",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "567": {
+    "currentId": "567",
+    "currentTerm": "Manufacturing",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "568": {
+    "currentId": "568",
+    "currentTerm": "Nonprofit",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "569": {
+    "currentId": "569",
+    "currentTerm": "Service",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "570": {
+    "currentId": "570",
+    "currentTerm": "Small Business",
+    "newMapping": "Baldrige award",
+    "otherNewMapping": ""
+  },
+  "571": {
+    "currentId": "571",
+    "currentTerm": "Manufacturing",
+    "newMapping": "Quality assurance",
+    "otherNewMapping": ""
+  },
+  "572": {
+    "currentId": "572",
+    "currentTerm": "Measurement Systems",
+    "newMapping": "Conformity assessment",
+    "otherNewMapping": ""
+  },
+  "573": {
+    "currentId": "573",
+    "currentTerm": "Software",
+    "newMapping": "Software research",
+    "otherNewMapping": ""
+  },
+  "132": {
+    "currentId": "132",
+    "currentTerm": "Standards",
+    "newMapping": "Standards",
+    "otherNewMapping": ""
+  },
+  "881": {
+    "currentId": "881",
+    "currentTerm": "Documentary Standards",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "882": {
+    "currentId": "882",
+    "currentTerm": "Accreditation",
+    "newMapping": "Accreditation",
+    "otherNewMapping": "Documentary standards"
+  },
+  "883": {
+    "currentId": "883",
+    "currentTerm": "Building and Fire Codes and Standards",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": "Building codes & standards"
+  },
+  "884": {
+    "currentId": "884",
+    "currentTerm": "Conformity Assessment",
+    "newMapping": "Conformity assessment",
+    "otherNewMapping": ""
+  },
+  "885": {
+    "currentId": "885",
+    "currentTerm": "Electrical Metrology",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "886": {
+    "currentId": "886",
+    "currentTerm": "Food and Nutrition",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "887": {
+    "currentId": "887",
+    "currentTerm": "International Standards",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "888": {
+    "currentId": "888",
+    "currentTerm": "International Trade",
+    "newMapping": "Exports",
+    "otherNewMapping": ""
+  },
+  "889": {
+    "currentId": "889",
+    "currentTerm": "Licensing",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "890": {
+    "currentId": "890",
+    "currentTerm": "National Electrical Standards",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "891": {
+    "currentId": "891",
+    "currentTerm": "Partnerships",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "892": {
+    "currentId": "892",
+    "currentTerm": "Patents",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "893": {
+    "currentId": "893",
+    "currentTerm": "Product Standards",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "894": {
+    "currentId": "894",
+    "currentTerm": "Quality Systems",
+    "newMapping": "Documentary standards",
+    "otherNewMapping": ""
+  },
+  "895": {
+    "currentId": "895",
+    "currentTerm": "Measurement Standards",
+    "newMapping": "Metrology",
+    "otherNewMapping": "Standards"
+  },
+  "896": {
+    "currentId": "896",
+    "currentTerm": "Calibrations",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "897": {
+    "currentId": "897",
+    "currentTerm": "Calibrations (Electromagnetic)",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "898": {
+    "currentId": "898",
+    "currentTerm": "Calibrations (Ionizing Radiation)",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "899": {
+    "currentId": "899",
+    "currentTerm": "Calibrations (Mechanical)",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "900": {
+    "currentId": "900",
+    "currentTerm": "Calibrations (Optical Radiation)",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "901": {
+    "currentId": "901",
+    "currentTerm": "Calibrations (Thermodynamic)",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "902": {
+    "currentId": "902",
+    "currentTerm": "Calibrations (Time and Frequency)",
+    "newMapping": "Calibration services",
+    "otherNewMapping": ""
+  },
+  "903": {
+    "currentId": "903",
+    "currentTerm": "International System (SI) of Units",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "904": {
+    "currentId": "904",
+    "currentTerm": "SI (Amount of Substance)",
+    "newMapping": "Amount of substance",
+    "otherNewMapping": ""
+  },
+  "906": {
+    "currentId": "906",
+    "currentTerm": "SI (Derived Units)",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "907": {
+    "currentId": "907",
+    "currentTerm": "SI (Electrical Units)",
+    "newMapping": "Electrical \/ electromagnetic metrology",
+    "otherNewMapping": ""
+  },
+  "908": {
+    "currentId": "908",
+    "currentTerm": "SI (Length)",
+    "newMapping": "Dimensional metrology",
+    "otherNewMapping": ""
+  },
+  "909": {
+    "currentId": "909",
+    "currentTerm": "SI (Mass)",
+    "newMapping": "Mass metrology",
+    "otherNewMapping": ""
+  },
+  "910": {
+    "currentId": "910",
+    "currentTerm": "SI (Radiometric Units)",
+    "newMapping": "Optical \/ photometry \/ laser metrology",
+    "otherNewMapping": ""
+  },
+  "911": {
+    "currentId": "911",
+    "currentTerm": "SI (Thermodynamics Units)",
+    "newMapping": "Thermometry metrology",
+    "otherNewMapping": ""
+  },
+  "912": {
+    "currentId": "912",
+    "currentTerm": "SI (Time & Frequency)",
+    "newMapping": "Time & frequency metrology",
+    "otherNewMapping": ""
+  },
+  "905": {
+    "currentId": "905",
+    "currentTerm": "SI Units (Guidelines & Practice)",
+    "newMapping": "Metrology",
+    "otherNewMapping": ""
+  },
+  "914": {
+    "currentId": "914",
+    "currentTerm": "SRD (Atomic and Molecular Physics)",
+    "newMapping": "Reference data",
+    "otherNewMapping": "Spectroscopy"
+  },
+  "916": {
+    "currentId": "916",
+    "currentTerm": "SRD (Biotechnology)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "915": {
+    "currentId": "915",
+    "currentTerm": "SRD (Buildings and Fire)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "917": {
+    "currentId": "917",
+    "currentTerm": "SRD (Chemical, Crystal Structure, Kinetics)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "918": {
+    "currentId": "918",
+    "currentTerm": "SRD (Environmental)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "919": {
+    "currentId": "919",
+    "currentTerm": "SRD (Fluids)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "920": {
+    "currentId": "920",
+    "currentTerm": "SRD (International Trade)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "921": {
+    "currentId": "921",
+    "currentTerm": "SRD (Ionizing Radiation)",
+    "newMapping": "Reference data",
+    "otherNewMapping": "Radiation"
+  },
+  "922": {
+    "currentId": "922",
+    "currentTerm": "SRD (Law Enforcement)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "923": {
+    "currentId": "923",
+    "currentTerm": "SRD (Materials Properties)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "924": {
+    "currentId": "924",
+    "currentTerm": "SRD (Optical Character Recognition)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "925": {
+    "currentId": "925",
+    "currentTerm": "SRD (Physics)",
+    "newMapping": "Reference data",
+    "otherNewMapping": "Physics"
+  },
+  "926": {
+    "currentId": "926",
+    "currentTerm": "SRD (Surface Data)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "927": {
+    "currentId": "927",
+    "currentTerm": "SRD (Text and Video Retrieval)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "928": {
+    "currentId": "928",
+    "currentTerm": "SRD (Thermophysical & Thermochemical)",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "930": {
+    "currentId": "930",
+    "currentTerm": "SRM (Chemical Composition)",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "931": {
+    "currentId": "931",
+    "currentTerm": "SRM (Engineering Materials)",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "932": {
+    "currentId": "932",
+    "currentTerm": "SRM (Physical Properties)",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "913": {
+    "currentId": "913",
+    "currentTerm": "Standard Reference Data",
+    "newMapping": "Reference data",
+    "otherNewMapping": ""
+  },
+  "929": {
+    "currentId": "929",
+    "currentTerm": "Standard Reference Materials",
+    "newMapping": "Reference materials",
+    "otherNewMapping": ""
+  },
+  "574": {
+    "currentId": "574",
+    "currentTerm": "Traceability",
+    "newMapping": "Reference materials",
+    "otherNewMapping": "Metrology"
+  },
+  "933": {
+    "currentId": "933",
+    "currentTerm": "U.S. Measurement System",
+    "newMapping": "Standards",
+    "otherNewMapping": ""
+  },
+  "133": {
+    "currentId": "133",
+    "currentTerm": "Transportation",
+    "newMapping": "Transportation",
+    "otherNewMapping": ""
+  },
+  "616": {
+    "currentId": "616",
+    "currentTerm": "Aerospace",
+    "newMapping": "Aerospace",
+    "otherNewMapping": ""
+  },
+  "617": {
+    "currentId": "617",
+    "currentTerm": "Automotive",
+    "newMapping": "Automotive",
+    "otherNewMapping": ""
+  },
+  "618": {
+    "currentId": "618",
+    "currentTerm": "Fuels",
+    "newMapping": "Fuels",
+    "otherNewMapping": "Transportation"
+  },
+  "619": {
+    "currentId": "619",
+    "currentTerm": "Materials",
+    "newMapping": "Transportation",
+    "otherNewMapping": ""
+  },
+  "620": {
+    "currentId": "620",
+    "currentTerm": "Rail",
+    "newMapping": "Rail",
+    "otherNewMapping": ""
+  }
+}

@@ -1,0 +1,2370 @@
+[
+  {
+    "SubSiteURL": "/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/amo/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/baldrige/",
+    "GroupName": "baldrige_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/bfrl/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/boulder/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/boulder/",
+    "GroupName": "boulder_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/calibrations/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/centennial/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/cnst/",
+    "GroupName": "cnst_authors"
+  },
+  {
+    "SubSiteURL": "/cnst/pubs/",
+    "GroupName": "cnst_authors"
+  },
+  {
+    "SubSiteURL": "/coe/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/cps/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/cps/",
+    "GroupName": "cps_authors"
+  },
+  {
+    "SubSiteURL": "/cps/",
+    "GroupName": "cps_approvers"
+  },
+  {
+    "SubSiteURL": "/ctl/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/ctl/",
+    "GroupName": "ctl_authors"
+  },
+  {
+    "SubSiteURL": "/ctl/",
+    "GroupName": "ctl_approvers"
+  },
+  {
+    "SubSiteURL": "/ctl/wireless-networks/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/ctl/wireless-networks/",
+    "GroupName": "ctl_authors"
+  },
+  {
+    "SubSiteURL": "/ctl/wireless-networks/",
+    "GroupName": "ctl_approvers"
+  },
+  {
+    "SubSiteURL": "/cyberframework/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/data/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/digitalstrategy/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/director/irb/",
+    "GroupName": "director_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/director/ocfo/",
+    "GroupName": "ocfo_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/director/oism/",
+    "GroupName": "director_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/director/oism/",
+    "GroupName": "oism_authors"
+  },
+  {
+    "SubSiteURL": "/director/sco/",
+    "GroupName": "director_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/director/sco/ncsci/",
+    "GroupName": "director_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/director/sco/sccg/",
+    "GroupName": "director_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/disaster-resilience/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/disaster-resilience/",
+    "GroupName": "disaster-resilience_authors"
+  },
+  {
+    "SubSiteURL": "/disaster-resilience/",
+    "GroupName": "disaster-resilience_approvers"
+  },
+  {
+    "SubSiteURL": "/eeel/",
+    "GroupName": "eeel_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/electromagnetics/",
+    "GroupName": "pml_electromagnetics_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/electromagnetics/",
+    "GroupName": "eeel_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/oles/",
+    "GroupName": "oles_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/omp/",
+    "GroupName": "eeel_omp"
+  },
+  {
+    "SubSiteURL": "/eeel/optoelectronics/",
+    "GroupName": "pml_optoelectronics_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/optoelectronics/",
+    "GroupName": "pml_optoelectronics_approvers"
+  },
+  {
+    "SubSiteURL": "/eeel/quantum/",
+    "GroupName": "pml_quantum_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/quantum/acdc/",
+    "GroupName": "pml_quantum_acdc_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/quantum/devices/",
+    "GroupName": "pml_quantum_devices_authors"
+  },
+  {
+    "SubSiteURL": "/eeel/semiconductor/",
+    "GroupName": "pml_semiconductor_authors"
+  },
+  {
+    "SubSiteURL": "/el/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_environment/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_environment/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_environment/",
+    "GroupName": "el_building_environment_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/",
+    "GroupName": "el_building_materials_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/resilience/",
+    "GroupName": "el_approvers"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/resilience/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/resilience/",
+    "GroupName": "el_building_materials_resilience_authors"
+  },
+  {
+    "SubSiteURL": "/el/building_materials/resilience/",
+    "GroupName": "el_building_materials_resilience_approvers"
+  },
+  {
+    "SubSiteURL": "/el/disaster_resilience/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/disaster_resilience/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/disaster_resilience/",
+    "GroupName": "el_disaster_resilience_authors"
+  },
+  {
+    "SubSiteURL": "/el/disasterstudies/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/disasterstudies/",
+    "GroupName": "disasterstudies_approvers"
+  },
+  {
+    "SubSiteURL": "/el/disasterstudies/",
+    "GroupName": "disasterstudies_authors"
+  },
+  {
+    "SubSiteURL": "/el/economics/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/economics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/economics/",
+    "GroupName": "el_economics_authors"
+  },
+  {
+    "SubSiteURL": "/el/facilities_instruments/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/facilities_instruments/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/facilities_instruments/",
+    "GroupName": "el_facilities_instruments_authors"
+  },
+  {
+    "SubSiteURL": "/el/fire_protection/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/fire_protection/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/fire_protection/",
+    "GroupName": "el_fire_protection_authors"
+  },
+  {
+    "SubSiteURL": "/el/fire_research/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/fire_research/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/fire_research/",
+    "GroupName": "el_fire_research_authors"
+  },
+  {
+    "SubSiteURL": "/el/highperformance_buildings/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/highperformance_buildings/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/highperformance_buildings/",
+    "GroupName": "el_highperformance_buildings_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/",
+    "GroupName": "el_isd_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/cs/",
+    "GroupName": "el_isd_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/cs/",
+    "GroupName": "el_isd_cs_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/cs/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ieee/",
+    "GroupName": "el_isd_ieee_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ieee/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ks/",
+    "GroupName": "el_isd_ks_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ks/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/mmc/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ms/",
+    "GroupName": "el_isd_ms_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ms/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ps/",
+    "GroupName": "el_isd_ps_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/ps/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/sbm/",
+    "GroupName": "el_isd_sbm_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/sbm/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/si/",
+    "GroupName": "el_isd_si_authors"
+  },
+  {
+    "SubSiteURL": "/el/isd/si/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/msid/",
+    "GroupName": "el_msid_authors"
+  },
+  {
+    "SubSiteURL": "/el/msid/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/msid/dpg/",
+    "GroupName": "el_msid_authors"
+  },
+  {
+    "SubSiteURL": "/el/msid/dpg/",
+    "GroupName": "el_msid_dpg_authors"
+  },
+  {
+    "SubSiteURL": "/el/msid/dpg/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/nehrp/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/nehrp/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/nehrp/",
+    "GroupName": "el_nehrp_authors"
+  },
+  {
+    "SubSiteURL": "/el/nwirp/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/nwirp/",
+    "GroupName": "el_nwirp_authors"
+  },
+  {
+    "SubSiteURL": "/el/nzertf/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/smartgrid/",
+    "GroupName": "el_authors"
+  },
+  {
+    "SubSiteURL": "/el/smartgrid/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/el/smartgrid/",
+    "GroupName": "el_smartgrid_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/energy/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/energy/",
+    "GroupName": "energy_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/exportech/",
+    "GroupName": "mep_authors"
+  },
+  {
+    "SubSiteURL": "/exportech/",
+    "GroupName": "mep_approvers"
+  },
+  {
+    "SubSiteURL": "/exportech/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/fire/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/forensics/",
+    "GroupName": "oles_authors"
+  },
+  {
+    "SubSiteURL": "/forensics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/forensics/",
+    "GroupName": "forensics_authors"
+  },
+  {
+    "SubSiteURL": "/greenhouse-gas/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/healthcare/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/iaao/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/ineap/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/ineap/",
+    "GroupName": "ineap-authors"
+  },
+  {
+    "SubSiteURL": "/ineap/",
+    "GroupName": "ineap-approvers"
+  },
+  {
+    "SubSiteURL": "/itl/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/",
+    "GroupName": "itl_approvers"
+  },
+  {
+    "SubSiteURL": "/itl/bigdata/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/biometrics/",
+    "GroupName": "itl_biometrics_author_approve"
+  },
+  {
+    "SubSiteURL": "/itl/cloud/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/cloud/",
+    "GroupName": "itl_cloud_authors"
+  },
+  {
+    "SubSiteURL": "/itl/cns/",
+    "GroupName": "itl_cns_authors"
+  },
+  {
+    "SubSiteURL": "/itl/csd/",
+    "GroupName": "itl_csd_authors"
+  },
+  {
+    "SubSiteURL": "/itl/csd/ct/",
+    "GroupName": "itl_csd_authors"
+  },
+  {
+    "SubSiteURL": "/itl/csd/ct/",
+    "GroupName": "itl_csd_ct_authors"
+  },
+  {
+    "SubSiteURL": "/itl/cxs/",
+    "GroupName": "itl_cxs_authors"
+  },
+  {
+    "SubSiteURL": "/itl/esd/",
+    "GroupName": "itl_esd_authors"
+  },
+  {
+    "SubSiteURL": "/itl/iad/",
+    "GroupName": "itl_approvers"
+  },
+  {
+    "SubSiteURL": "/itl/iad/",
+    "GroupName": "itl_iad_authors"
+  },
+  {
+    "SubSiteURL": "/itl/iad/",
+    "GroupName": "itl_iad_approvers"
+  },
+  {
+    "SubSiteURL": "/itl/iad/dmg/",
+    "GroupName": "itl_iad_authors"
+  },
+  {
+    "SubSiteURL": "/itl/iad/ig/",
+    "GroupName": "itl_iad_ig_authors"
+  },
+  {
+    "SubSiteURL": "/itl/iad/mig/",
+    "GroupName": "itl_iad_mig_authors"
+  },
+  {
+    "SubSiteURL": "/itl/iad/rg/",
+    "GroupName": "itl_iad_rg_authors"
+  },
+  {
+    "SubSiteURL": "/itl/idms/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/idms/",
+    "GroupName": "itl_idms_authors"
+  },
+  {
+    "SubSiteURL": "/itl/idus/",
+    "GroupName": "itl_idus_authors"
+  },
+  {
+    "SubSiteURL": "/itl/ixe/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/ixe/",
+    "GroupName": "itl_approvers"
+  },
+  {
+    "SubSiteURL": "/itl/pit/",
+    "GroupName": "itl_pit_authors"
+  },
+  {
+    "SubSiteURL": "/itl/quantum/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/sed/",
+    "GroupName": "itl_sed_authors"
+  },
+  {
+    "SubSiteURL": "/itl/ssd/",
+    "GroupName": "itl_ssd_authors"
+  },
+  {
+    "SubSiteURL": "/itl/ssd/cs/",
+    "GroupName": "itl_ssd_cs_authors"
+  },
+  {
+    "SubSiteURL": "/itl/ssd/int/",
+    "GroupName": "itl_ssd_int_authors"
+  },
+  {
+    "SubSiteURL": "/itl/ssd/is/",
+    "GroupName": "itl_ssd_is_authors"
+  },
+  {
+    "SubSiteURL": "/itl/tis/",
+    "GroupName": "itl_tis_authors"
+  },
+  {
+    "SubSiteURL": "/itl/vm/",
+    "GroupName": "itl_vm_authors"
+  },
+  {
+    "SubSiteURL": "/itl/vote/",
+    "GroupName": "itl_authors"
+  },
+  {
+    "SubSiteURL": "/itl/vote/",
+    "GroupName": "itl_approvers"
+  },
+  {
+    "SubSiteURL": "/lightweighting/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/lightweighting/",
+    "GroupName": "lightweighting_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/meas-services/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mel/",
+    "GroupName": "mel_authors"
+  },
+  {
+    "SubSiteURL": "/mel/isd/",
+    "GroupName": "el_isd_authors"
+  },
+  {
+    "SubSiteURL": "/mel/isd/cs/",
+    "GroupName": "el_isd_cs_authors"
+  },
+  {
+    "SubSiteURL": "/mel/isd/ks/",
+    "GroupName": "el_isd_ks_authors"
+  },
+  {
+    "SubSiteURL": "/mel/isd/ms/",
+    "GroupName": "el_isd_ms_authors"
+  },
+  {
+    "SubSiteURL": "/mel/isd/ps/",
+    "GroupName": "el_isd_ps_authors"
+  },
+  {
+    "SubSiteURL": "/mel/isd/si/",
+    "GroupName": "el_isd_si_authors"
+  },
+  {
+    "SubSiteURL": "/mel/mmd/",
+    "GroupName": "pml_div681_authors"
+  },
+  {
+    "SubSiteURL": "/mel/mmd/ieee/",
+    "GroupName": "el_isd_ieee_authors"
+  },
+  {
+    "SubSiteURL": "/mel/mmd/mf/",
+    "GroupName": "pml_div681_grp15_authors"
+  },
+  {
+    "SubSiteURL": "/mel/mmd/mpm/",
+    "GroupName": "pml_div681_grp13_authors"
+  },
+  {
+    "SubSiteURL": "/mel/mmd/mtm/",
+    "GroupName": "el_isd_sbm_authors"
+  },
+  {
+    "SubSiteURL": "/mel/mmd/sda/",
+    "GroupName": "pml_div681_grp12_authors"
+  },
+  {
+    "SubSiteURL": "/mel/msid/",
+    "GroupName": "el_msid_authors"
+  },
+  {
+    "SubSiteURL": "/mel/msid/dpg/",
+    "GroupName": "el_msid_dpg_authors"
+  },
+  {
+    "SubSiteURL": "/mel/msid/esg/",
+    "GroupName": "el_msid_esg_authors"
+  },
+  {
+    "SubSiteURL": "/mel/msid/msg/",
+    "GroupName": "el_msid_msg_authors"
+  },
+  {
+    "SubSiteURL": "/mel/msid/msm/",
+    "GroupName": "el_msid_msm_authors"
+  },
+  {
+    "SubSiteURL": "/mel/msid/sima/",
+    "GroupName": "el_msid_sima_authors"
+  },
+  {
+    "SubSiteURL": "/mel/ped/",
+    "GroupName": "mel_ped"
+  },
+  {
+    "SubSiteURL": "/mel/ped/em/",
+    "GroupName": "mel_ped_em"
+  },
+  {
+    "SubSiteURL": "/mel/ped/lscm/",
+    "GroupName": "pml_div681_grp11_authors"
+  },
+  {
+    "SubSiteURL": "/mel/ped/nm/",
+    "GroupName": "mel_ped_nm"
+  },
+  {
+    "SubSiteURL": "/mep/",
+    "GroupName": "mep_authors"
+  },
+  {
+    "SubSiteURL": "/mgi/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/",
+    "GroupName": "mml_acmd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/",
+    "GroupName": "mml_acmd_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/biological_environments/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/biological_environments/",
+    "GroupName": "mml_acmd_biological_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/biological_environments/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/cryogenics/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/cryogenics/",
+    "GroupName": "mml_acmd_cryogenics_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/cryogenics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/fluids_modeling/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/fluids_modeling/",
+    "GroupName": "mml_acmd_fluids_modeling_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/fluids_modeling/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/fluids_properties/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/fluids_properties/",
+    "GroupName": "mml_acmd_fluids_properties_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/fluids_properties/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/nanoscale_reliability/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/nanoscale_reliability/",
+    "GroupName": "mml_acmd_nanoscale_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/nanoscale_reliability/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/structural_materials/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/structural_materials/",
+    "GroupName": "mml_acmd_structural_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/structural_materials/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/trc/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/trc/",
+    "GroupName": "mml_acmd_trc_authors"
+  },
+  {
+    "SubSiteURL": "/mml/acmd/trc/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/",
+    "GroupName": "mml_bbd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/ada/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/ada/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/bioassay/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/bioassay/",
+    "GroupName": "mml_bbd_bioassay_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/bioassay/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/biomaterials/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/biomaterials/",
+    "GroupName": "mml_bbd_biomaterials_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/biomaterials/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/biomolecular/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/biomolecular/",
+    "GroupName": "mml_bbd_biomolecular_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/biomolecular/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/cell_systems/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/cell_systems/",
+    "GroupName": "mml_bbd_cellsystems_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bbd/cell_systems/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/",
+    "GroupName": "mml_bmd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/bioanalytical/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/bioanalytical/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/bioanalytical/",
+    "GroupName": "mml_bmd_bioanalytical_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/bioprocess/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/bioprocess/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/bioprocess/",
+    "GroupName": "mml_bmd_bioprocess_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/data/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/data/",
+    "GroupName": "mml_bmd_data_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/data/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/genetics/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/genetics/",
+    "GroupName": "mml_bmd_genetics_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/genetics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/macromolecular/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/macromolecular/",
+    "GroupName": "mml_bmd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/macromolecular/",
+    "GroupName": "mml_bmd_macromolecular_authors"
+  },
+  {
+    "SubSiteURL": "/mml/bmd/macromolecular/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/",
+    "GroupName": "mml_csd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/ecs/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/ecs/",
+    "GroupName": "mml_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/ecs/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/ecs/",
+    "GroupName": "mml_csd_ecs_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/ecs/",
+    "GroupName": "mml_csd_ecs_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/elemental/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/elemental/",
+    "GroupName": "mml_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/elemental/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/elemental/",
+    "GroupName": "mml_csd_elemental_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/elemental/",
+    "GroupName": "mml_csd_elemental_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/esb/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/esb/",
+    "GroupName": "mml_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/esb/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/esb/",
+    "GroupName": "mml_csd_esb_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/esb/",
+    "GroupName": "mml_csd_esb_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/informatics_research/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/informatics_research/",
+    "GroupName": "mml_csd_informatics_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/informatics_research/",
+    "GroupName": "mml_csd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/informatics_research/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/inorganic/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/inorganic/",
+    "GroupName": "mml_csd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/inorganic/",
+    "GroupName": "mml_csd_inorganic_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/inorganic/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/organic/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/organic/",
+    "GroupName": "mml_csd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/organic/",
+    "GroupName": "mml_csd_organic_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/organic/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/process_measurements/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/process_measurements/",
+    "GroupName": "mml_csd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/process_measurements/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/process_measurements/",
+    "GroupName": "mml_csd_process_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/sensing/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/sensing/",
+    "GroupName": "mml_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/sensing/",
+    "GroupName": "mml_csd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/sensing/",
+    "GroupName": "mml_csd_sensing_authors"
+  },
+  {
+    "SubSiteURL": "/mml/csd/sensing/",
+    "GroupName": "mml_csd_sensing_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/csd/sensing/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/diffusion/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/diffusion/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/mumag/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/mumag/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/oof/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/ctcms/oof/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/fact/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/fact/",
+    "GroupName": "mml_fact_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/hml/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/hml/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/",
+    "GroupName": "mml_mmsd_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/",
+    "GroupName": "mml_mmsd_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/materials-structure/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/materials-structure/",
+    "GroupName": "mml_mmsd_structure_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/materials-structure/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/microanalysis/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/microanalysis/",
+    "GroupName": "mml_mmsd_microanalysis_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/microanalysis/",
+    "GroupName": "mml_mmsd_microanalysis_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/microanalysis/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/nanomaterials/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/nanomaterials/",
+    "GroupName": "mml_mmsd_surface_interface_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/nanomaterials/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/nanomechanical_properties/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/nanomechanical_properties/",
+    "GroupName": "mml_mmsd_nano_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/nanomechanical_properties/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/security_technologies/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/security_technologies/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/security_technologies/",
+    "GroupName": "mml_mmsd_security_technologies_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/sustainable-materials/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/sustainable-materials/",
+    "GroupName": "mml_mmsd_functional_properties_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/sustainable-materials/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/synchrotron-science/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/synchrotron-science/",
+    "GroupName": "mml_mmsd_synchrotron_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/synchrotron-science/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/trace-chemicals/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/trace-chemicals/",
+    "GroupName": "mml_mmsd_microscopy_authors"
+  },
+  {
+    "SubSiteURL": "/mml/mmsd/trace-chemicals/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_nanostructure/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_nanostructure/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_nanostructure/",
+    "GroupName": "mml_msed_func_nanostructure_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_nanostructure/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_polymer/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_polymer/",
+    "GroupName": "mml_msed_func_polymers_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_polymer/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/functional_polymer/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/mechanical_performance/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/mechanical_performance/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/mechanical_performance/",
+    "GroupName": "mml_msed_mech_performance_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/mechanical_performance/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/polymers/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/polymers/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/polymers/",
+    "GroupName": "mml_msed_polymers_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/polymers/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/sustainable_polymers/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/sustainable_polymers/",
+    "GroupName": "mml_msed_sustainable_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/sustainable_polymers/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/sustainable_polymers/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thermodynamics_kinetics/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thermodynamics_kinetics/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thermodynamics_kinetics/",
+    "GroupName": "mml_msed_themodynamics_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thermodynamics_kinetics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thin_film_nanostructure/",
+    "GroupName": "mml_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thin_film_nanostructure/",
+    "GroupName": "mml_msed_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thin_film_nanostructure/",
+    "GroupName": "mml_msed_thin_authors"
+  },
+  {
+    "SubSiteURL": "/mml/msed/thin_film_nanostructure/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/odi/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/mml/odi/",
+    "GroupName": "mml_odi_approvers"
+  },
+  {
+    "SubSiteURL": "/mml/odi/",
+    "GroupName": "mml_odi_authors"
+  },
+  {
+    "SubSiteURL": "/national-security-standards/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/national-security-standards/",
+    "GroupName": "keeping-america-safe-authors-approvers"
+  },
+  {
+    "SubSiteURL": "/ncnr/",
+    "GroupName": "ncnr_authors"
+  },
+  {
+    "SubSiteURL": "/nsoft/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/nsoft/",
+    "GroupName": "nsoft_authors"
+  },
+  {
+    "SubSiteURL": "/nvl/",
+    "GroupName": "nvl_authors"
+  },
+  {
+    "SubSiteURL": "/nvl/",
+    "GroupName": "nvl_approvers"
+  },
+  {
+    "SubSiteURL": "/nvlap/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/ohrm/",
+    "GroupName": "hrmd_authors"
+  },
+  {
+    "SubSiteURL": "/oles/",
+    "GroupName": "oles_authors"
+  },
+  {
+    "SubSiteURL": "/oles/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/data/",
+    "GroupName": "pml_data_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div840/",
+    "GroupName": "pml_div680-ecsed_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div840/ecsed/",
+    "GroupName": "pml_div680-ecsed_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div842/",
+    "GroupName": "pml_div684_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div842/fcdc/",
+    "GroupName": "pml_div684_fcdc_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div842/grp01/",
+    "GroupName": "pml_div684_grp1_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div842/grp02/",
+    "GroupName": "pml_div684_grp2_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div842/grp04/",
+    "GroupName": "pml_div684_grp4_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp00/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp00/",
+    "GroupName": "pml_div685_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp03/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp03/",
+    "GroupName": "pml_div685_grp03_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp04/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp04/",
+    "GroupName": "pml_div685_grp04_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp05/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp05/",
+    "GroupName": "pml_div685_grp5_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp06/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp06/",
+    "GroupName": "pml_div685_grp6_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp08/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/grp08/",
+    "GroupName": "pml_div685_grp8_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/high/",
+    "GroupName": "pml_div685_high_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/pub/",
+    "GroupName": "pml_div685_pub_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/pub/",
+    "GroupName": "pml_div685_pub_approvers"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/sc/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div844/sc/",
+    "GroupName": "pml_div685_sc_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div846/",
+    "GroupName": "pml_div682_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div847/",
+    "GroupName": "pml_div688_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div847/grp00/",
+    "GroupName": "pml_div688_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div847/grp40/",
+    "GroupName": "pml_div688_grp40_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div847/grp80/",
+    "GroupName": "pml_div688_grp80_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div847/grp90/",
+    "GroupName": "pml_div688_grp90_authors"
+  },
+  {
+    "SubSiteURL": "/physlab/div848/",
+    "GroupName": "pml_div689_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/physlab/news/",
+    "GroupName": "pml_data_authors"
+  },
+  {
+    "SubSiteURL": "/pif/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/",
+    "GroupName": "pml_approvers"
+  },
+  {
+    "SubSiteURL": "/pml/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/cuu/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/cuu/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/data/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/data/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/data/",
+    "GroupName": "pml_data_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div680/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div680/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/",
+    "GroupName": "pml_div682_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp01/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp01/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp01/",
+    "GroupName": "pml_div682_grp1_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp02/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp02/",
+    "GroupName": "pml_div682_grp2_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp02/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp03/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp03/",
+    "GroupName": "pml_div682_grp3_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp03/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp04/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp04/",
+    "GroupName": "pml_div682_grp4_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div682/grp04/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/",
+    "GroupName": "pml_div683_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/conference/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/conference/",
+    "GroupName": "pml_div683_conference_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp00/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp00/",
+    "GroupName": "pml_div683_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp01/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp01/",
+    "GroupName": "pml_div683_grp01_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp02/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp02/",
+    "GroupName": "pml_div683_grp02_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp03/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp03/",
+    "GroupName": "pml_div683_grp03_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp04/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp04/",
+    "GroupName": "pml_div683_grp04_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp06/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div683/grp06/",
+    "GroupName": "pml_div683_grp06_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/",
+    "GroupName": "pml_div684_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/acdc/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/acdc/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/acdc/",
+    "GroupName": "pml_div684_acdc_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/fcdc/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/fcdc/",
+    "GroupName": "pml_div684_fcdc_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/fcdc/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp01/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp01/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp02/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp02/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp03/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp03/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp03/",
+    "GroupName": "pml_div684_grp3_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp04/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp04/",
+    "GroupName": "pml_div684_grp4_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp04/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp05/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp05/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp05/",
+    "GroupName": "pml_div684_grp5_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp06/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp06/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp06/",
+    "GroupName": "pml_div684_grp6_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp07/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp07/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div684/grp07/",
+    "GroupName": "pml_div684_grp7_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/",
+    "GroupName": "pml_div685_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp00/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp00/",
+    "GroupName": "pml_div685_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp00/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp01/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp01/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp01/",
+    "GroupName": "pml_div685_grp1_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp02/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp02/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp02/",
+    "GroupName": "pml_div685_grp2_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp03/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp03/",
+    "GroupName": "pml_div685_grp03_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp03/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp04/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp04/",
+    "GroupName": "pml_div685_grp04_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp04/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp05/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp05/",
+    "GroupName": "pml_div685_grp5_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp05/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp06/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp06/",
+    "GroupName": "pml_div685_grp6_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp06/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp07/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp07/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/grp07/",
+    "GroupName": "pml_div685_grp7_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/high/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/high/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/pub/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/pub/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/pub/",
+    "GroupName": "pml_div685_pub_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/sc/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/sc/",
+    "GroupName": "pml_div685_sc_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div685/sc/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/",
+    "GroupName": "pml_div686_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/calibrations/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/calibrations/",
+    "GroupName": "pml_div686_calibrations_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/ccg/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/ccg/",
+    "GroupName": "pml_div686_ccg_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/devices/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/devices/",
+    "GroupName": "pml_div686_devices_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/grp00/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/grp00/",
+    "GroupName": "pml_div686_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/manufacturing/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/manufacturing/",
+    "GroupName": "pml_div686_manufacturing_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/molec-biophotonics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/molec-biophotonics/",
+    "GroupName": "pml_div686_molec_and_biophotonics_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/molec-biophotonics/",
+    "GroupName": "pml_div686_molec_and_biophotonics_approvers"
+  },
+  {
+    "SubSiteURL": "/pml/div686/sources_detectors/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div686/sources_detectors/",
+    "GroupName": "pml_div686_sources_detectors_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp00/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp00/",
+    "GroupName": "pml_div688_grp00_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp00/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp10/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp10/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp40/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp40/",
+    "GroupName": "pml_div688_grp40_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp40/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp50/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp50/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp80/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp80/",
+    "GroupName": "pml_div688_grp80_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp80/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp90/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp90/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div688/grp90/",
+    "GroupName": "pml_div688_grp90_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div689/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/div689/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/electromagnetics/",
+    "GroupName": "pml_electromagnetics_authors"
+  },
+  {
+    "SubSiteURL": "/pml/electromagnetics/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/electromagnetics/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/high_megawatt/",
+    "GroupName": "pml_authors"
+  },
+  {
+    "SubSiteURL": "/pml/high_megawatt/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/high_megawatt/",
+    "GroupName": "pml_high_megawatt_authors"
+  },
+  {
+    "SubSiteURL": "/pml/history-volt/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/surf/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/surf/",
+    "GroupName": "pml_surf_authors"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/",
+    "GroupName": "pml_wmd_authors"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/",
+    "GroupName": "pml_wmd_approvers"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/ilmg/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/labmetrology/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/lmdg/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/pml/wmd/metric/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/public_affairs/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/public_affairs/colloquia/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/qualitysystem/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/smartgrid/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/srd/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/srm/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/standardsgov/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/standardsgov/",
+    "GroupName": "standardsgov_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/surf/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/surf/",
+    "GroupName": "iaao_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/surfboulder/",
+    "GroupName": "surf_boulder_authors"
+  },
+  {
+    "SubSiteURL": "/tgdc/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tgdc/",
+    "GroupName": "tgdc_authors"
+  },
+  {
+    "SubSiteURL": "/tip/",
+    "GroupName": "tip_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/",
+    "GroupName": "tpo_authors_approvers"
+  },
+  {
+    "SubSiteURL": "/tpo/collaborations/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/faq/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/forms/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/publications/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/sbir/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/tpo/showcase/",
+    "GroupName": "pba_authors"
+  },
+  {
+    "SubSiteURL": "/traceability/",
+    "GroupName": "pba_authors"
+  }
+]

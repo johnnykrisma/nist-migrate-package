@@ -1,0 +1,46 @@
+name = "Migrate from NIST Commonspot"
+description = "Module to migrate NIST's Commonspot site content to Drupal 7"
+package = "Migration"
+core = 7.x
+
+dependencies[] = migrate
+dependencies[] = migrate_extras
+dependencies[] = phone
+dependencies[] = link
+dependencies[] = date
+dependencies[] = email
+dependencies[] = simplehtmldom
+; For the Kaltura video migrate
+dependencies[] = remote_stream_wrapper
+
+files[] = migrate_nist.module
+files[] = migrate_nist.migrate.inc
+
+files[] = json_source_classes.inc
+files[] = nist_migrate_class.inc
+
+files[] = award.inc
+files[] = blankpages.inc
+files[] = cnsttool.inc
+files[] = commonspotpages.inc
+files[] = division.inc
+files[] = event.inc
+files[] = file.inc
+files[] = group.inc
+files[] = image.inc
+files[] = instrument.inc
+files[] = kaltura_video.inc
+files[] = mmlpages.inc
+files[] = news.inc
+files[] = nikeauthors.inc
+files[] = orgstructure.inc
+files[] = ou.inc
+files[] = projects.inc
+files[] = publication.inc
+files[] = photogallery.inc
+files[] = software.inc
+files[] = terms.inc
+files[] = timeline.inc
+files[] = user.inc
+files[] = userimage.inc
+files[] = usermain.inc

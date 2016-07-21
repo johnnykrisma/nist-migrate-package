@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Main module file for migrate_training. Since we implement no code hooks,
+ * and all code consists of autoloaded classes, we need nothing here.
+ */
+

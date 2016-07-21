@@ -1,0 +1,70 @@
+[
+  {
+    "oldTerm": "Graphic/scientific data/video",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Photo/Color/Animation",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Graphic/illustration/video animation",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Photo/Color",
+    "newTerm": "Photo"
+  },
+  {
+    "oldTerm": "Graphic/illustration",
+    "newTerm": "Infographic"
+  },
+  {
+    "oldTerm": "Graphic/scientific data",
+    "newTerm": "Scientific Data"
+  },
+  {
+    "oldTerm": "Video animation",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Photo/Color/video animation",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Photo/B&W/video",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Graphic/scientific data",
+    "newTerm": "Scientific Data"
+  },
+  {
+    "oldTerm": "Photo/Color/video",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Live action video",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Photo/B&W, colorized",
+    "newTerm": "Photo"
+  },
+  {
+    "oldTerm": "Photo/B&W",
+    "newTerm": "Photo, B&W"
+  },
+  {
+    "oldTerm": "Graphic/animation/video",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Graphic/illustration/video",
+    "newTerm": ""
+  },
+  {
+    "oldTerm": "Video",
+    "newTerm": ""
+  }
+]
